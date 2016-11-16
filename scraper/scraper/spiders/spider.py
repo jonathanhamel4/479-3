@@ -33,7 +33,10 @@ class ConUSpider(CrawlSpider):
         #Use the following to extract html from the link and then parse it.
         # if len(links) > 3:
         #     raise CloseSpider('Max number of pages exceded')
-        # body = response.xpath('//body').extract();
+        # Which one?
+        # body = response.xpath('//body').extract(); -> Takes headers, body, footer
+        # body = response.xpath('//section[@id="content-main"]').extract() -> Takes only the content
+
         # soup = BeautifulSoup(response.body)
         # for script in soup(["script", "style"]):
         #     script.extract()
