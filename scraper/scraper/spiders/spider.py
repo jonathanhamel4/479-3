@@ -12,11 +12,11 @@ sys.setdefaultencoding('utf-8')
 class ConUSpider(CrawlSpider):
     name = "ConUSpider"
     allowed_domains = ['concordia.ca']
-    start_urls = ['http://www.concordia.ca/artsci/biology.html']
-    rules = (Rule(LinkExtractor(allow=('(concordia.ca/artsci/biology/)')), callback='parse_start_url', follow=True),)
+    start_urls = ['http://www.concordia.ca/artsci/physics.html']
+    rules = (Rule(LinkExtractor(allow=('(concordia.ca/artsci/physics/)')), callback='parse_start_url', follow=True),)
     links = []
     count = 0
-    isDebug = True
+    isDebug = False
 
     @classmethod
     def from_crawler(cls, crawler, *args, **kwargs):
@@ -28,7 +28,7 @@ class ConUSpider(CrawlSpider):
         self.count = self.count + 1
         print response.url
         self.links.append(response.url)
-        if isDebug is True and self.count > 15:
+        if self.isDebug is True and self.count > 50:
             raise CloseSpider('Max number')
         #Use the following to extract html from the link and then parse it.
         # if len(links) > 3:
@@ -47,5 +47,5 @@ class ConUSpider(CrawlSpider):
 
     def spider_closed(self, spider):
         print "PRINTING"
-        print str(self.links)
+        print str(self.count)
       # second param is instance of spder about to be closed.
