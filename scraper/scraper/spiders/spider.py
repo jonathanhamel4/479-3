@@ -4,17 +4,19 @@ from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
 from scrapy import signals
 from bs4 import BeautifulSoup
+from scrapy.exceptions import CloseSpider
 import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-links = []
 class ConUSpider(CrawlSpider):
     name = "ConUSpider"
     allowed_domains = ['concordia.ca']
     start_urls = ['http://www.concordia.ca/artsci/biology.html']
-    rules = (Rule(LinkExtractor(allow=('(concordia.ca/artsci/biology)')), callback='parse_start_url', follow=True),)
-
+    rules = (Rule(LinkExtractor(allow=('(concordia.ca/artsci/biology/)')), callback='parse_start_url', follow=True),)
+    links = []
+    count = 0
+    isDebug = True
 
     @classmethod
     def from_crawler(cls, crawler, *args, **kwargs):
@@ -23,8 +25,14 @@ class ConUSpider(CrawlSpider):
         return spider
 
     def parse_start_url(self, response):
+        self.count = self.count + 1
         print response.url
-        links.append(response.url)
+        self.links.append(response.url)
+        if isDebug is True and self.count > 15:
+            raise CloseSpider('Max number')
+        #Use the following to extract html from the link and then parse it.
+        # if len(links) > 3:
+        #     raise CloseSpider('Max number of pages exceded')
         # body = response.xpath('//body').extract();
         # soup = BeautifulSoup(response.body)
         # for script in soup(["script", "style"]):
@@ -38,5 +46,6 @@ class ConUSpider(CrawlSpider):
         return
 
     def spider_closed(self, spider):
-        print str(links)
+        print "PRINTING"
+        print str(self.links)
       # second param is instance of spder about to be closed.
