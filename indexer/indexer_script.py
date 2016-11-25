@@ -53,7 +53,7 @@ def indexDocument(string_data, doc_id):
 		frequency = indexer[tk][str(element_id)] or 0
 		indexer[tk][str(doc_id)] = frequency + token_counter[tk]
 	# save & clear the memory
-	mergeIndex()
+	mergeIndex(indexer)
 	mergeDocumentsDict(document_tuple)
 	del documents_dict
 	del indexer
