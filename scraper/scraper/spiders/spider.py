@@ -6,7 +6,7 @@ from scrapy import signals
 from bs4 import BeautifulSoup
 from scrapy.exceptions import CloseSpider
 import sys
-from ... import afinn
+import scraper.afinn.afinnscript
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
@@ -42,9 +42,11 @@ class ConUSpider(CrawlSpider):
             script.extract()
         text = soup.get_text()
         lines = (line.strip() for line in text.splitlines())
-        chunks = list(filter(None, list((phrase.strip() for line in lines for phrase in line.split("  ")))))
+        chunks = " ".join(list(filter(None, list((phrase.strip() for line in lines for phrase in line.split("  "))))))
         # drop blank lines
-        print str(chunks)
+        scraper.afinn.afinnscript.getAfinnScore(chunks)
+
+        # THEN INDEX
         return
 
     def spider_closed(self, spider):
