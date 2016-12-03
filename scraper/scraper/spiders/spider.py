@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 from scrapy.exceptions import CloseSpider
 import sys
 import scraper.afinn.afinnscript
+import re
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
@@ -18,6 +19,29 @@ class ConUSpider(CrawlSpider):
     links = []
     count = 0
     isDebug = False
+
+    @classmethod
+    def get_dept_id(url):
+        print "HERE"
+        deptId = None
+        if bool(re.search(url, "artsci\/biology")):
+            deptId = 1
+        elif bool(re.search(url, "artsci\/chemistry")):
+            deptId = 2
+        elif bool(re.search(url, "artsci\/exercise-science")):
+            deptId = 3
+        elif bool(re.search(url, "artsci\/geography-planning-environment")):
+            deptId = 4
+        elif bool(re.search(url, "artsci\/math-stats")):
+            deptId = 5
+        elif bool(re.search(url, "artsci\/physics")):
+            deptId = 6
+        elif bool(re.search(url, "artsci\/psychology")):
+            deptId = 7
+        elif bool(re.search(url, "artsci\/science-college")):
+            deptId = 8
+        print str(deptId)
+        return deptId
 
     @classmethod
     def from_crawler(cls, crawler, *args, **kwargs):
@@ -44,7 +68,13 @@ class ConUSpider(CrawlSpider):
         lines = (line.strip() for line in text.splitlines())
         chunks = " ".join(list(filter(None, list((phrase.strip() for line in lines for phrase in line.split("  "))))))
         # drop blank lines
-        scraper.afinn.afinnscript.getAfinnScore(chunks)
+        try:
+            self.get_dept_id(response.url)
+        except:
+            print "Unexpected error:", sys.exc_info()[0]
+            raise
+
+        #scraper.afinn.afinnscript.getAfinnScore(chunks, self.getDeptId(response.url))
 
         # THEN INDEX
         return
