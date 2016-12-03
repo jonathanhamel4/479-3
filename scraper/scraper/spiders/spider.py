@@ -6,6 +6,7 @@ from scrapy import signals
 from bs4 import BeautifulSoup
 from scrapy.exceptions import CloseSpider
 import sys
+from ... import afinn
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
@@ -13,7 +14,7 @@ class ConUSpider(CrawlSpider):
     name = "ConUSpider"
     allowed_domains = ['concordia.ca']
     start_urls = ['http://www.concordia.ca/artsci/physics.html']
-    rules = (Rule(LinkExtractor(allow=('(concordia.ca/artsci/physics/)')), callback='parse_start_url', follow=True),)
+    #rules = (Rule(LinkExtractor(allow=('(concordia.ca/artsci/physics/)')), callback='parse_start_url', follow=True),)
     links = []
     count = 0
     isDebug = False
@@ -28,27 +29,25 @@ class ConUSpider(CrawlSpider):
         self.count = self.count + 1
         print response.url
         self.links.append(response.url)
-        if self.isDebug is True and self.count > 50:
-            raise CloseSpider('Max number')
+        if self.isDebug is True and self.count > 1:
+            raise CloseSpider('')
         #Use the following to extract html from the link and then parse it.
-        # if len(links) > 3:
-        #     raise CloseSpider('Max number of pages exceded')
-        # Which one?
-        # body = response.xpath('//body').extract(); -> Takes headers, body, footer
-        # body = response.xpath('//section[@id="content-main"]').extract() -> Takes only the content
-
-        # soup = BeautifulSoup(response.body)
-        # for script in soup(["script", "style"]):
-        #     script.extract()
-        # text = soup.get_text()
-        # lines = (line.strip() for line in text.splitlines())
-        # chunks = (phrase.strip() for line in lines for phrase in line.split("  "))
-        # # drop blank lines
-        # text = '\n'.join(chunk for chunk in chunks if chunk)
-        # print text
+        #body = response.xpath('//body').extract(); #-> Takes headers, body, footer
+        #description = response.xpath('//html/head/meta[@http-equiv="description"]/@content').extract()[0]
+        body = response.xpath('//section[@id="content-main"]/div[@class="container"]').extract() #-> Takes only the content
+        soup = BeautifulSoup(response.body)
+        for a in soup.findAll('a'):
+            del a['href']
+        for script in soup(["script", "style"]):
+            script.extract()
+        text = soup.get_text()
+        lines = (line.strip() for line in text.splitlines())
+        chunks = list(filter(None, list((phrase.strip() for line in lines for phrase in line.split("  ")))))
+        # drop blank lines
+        print str(chunks)
         return
 
     def spider_closed(self, spider):
-        print "PRINTING"
+        print "CLOSING SPIDER"
         print str(self.count)
       # second param is instance of spder about to be closed.
