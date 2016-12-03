@@ -6,6 +6,7 @@ import json
 def getAfinnScore(text_string, dept_id):
     afinn = Afinn()
     scored_doc = afinn.score(text_string)
+    #print scored_doc
     loadAfinnDict(scored_doc, str(dept_id))
 
 
@@ -16,7 +17,11 @@ def loadAfinnDict(score, dept):
     with open(filePath, 'r') as data_file:
         data = json.load(data_file)
         print dept
-        scoreDoc = data.get(dept, 0)
-        data[dept] = scoreDoc + score
+        scoreJson = data.get(dept, {})
+        scoreDoc = scoreJson.get("score", 0)
+        numberDoc = scoreJson.get("docs", 0)
+        scoreJson["score"] = scoreDoc + score
+        scoreJson["docs"] = numberDoc + 1
+        data[dept] = scoreJson
         with open(filePath, 'w') as data_file2:
             json.dump(data, data_file2)
