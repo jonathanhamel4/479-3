@@ -1,8 +1,10 @@
 # 479 Final Project
 
 ## Web Scraper - Scrapy
-```sudo pip install scrapy``` on ubuntu.
+```sudo pip install scrapy```
 
-Windows... Some troubleshooting to do with Scrapy dependencies. 
+```sudo pip install git+https://github.com/fnielsen/afinn.git```
+
+Windows... Some troubleshooting to do with Scrapy dependencies.
 
 Tutorial [Here](https://doc.scrapy.org/en/latest/intro/tutorial.html)

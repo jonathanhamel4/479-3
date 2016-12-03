@@ -14,8 +14,16 @@ sys.setdefaultencoding('utf-8')
 class ConUSpider(CrawlSpider):
     name = "ConUSpider"
     allowed_domains = ['concordia.ca']
-    start_urls = ['http://www.concordia.ca/artsci/physics.html']
-    rules = (Rule(LinkExtractor(allow=('(concordia.ca/artsci/physics/)')), callback='parse_start_url', follow=True),)
+    start_urls = ['http://www.concordia.ca/artsci/physics.html', 'http://www.concordia.ca/artsci/chemistry.html', 'http://www.concordia.ca/artsci/biology.html', 'http://www.concordia.ca/artsci/geography-planning-environment.html', 'http://www.concordia.ca/artsci/math-stats.html', 'http://www.concordia.ca/artsci/psychology.html', 'http://www.concordia.ca/artsci/science-college.html']
+    rules = (
+                Rule(LinkExtractor(allow=('(concordia.ca/artsci/physics/)')), callback='parse_start_url', follow=True),
+                Rule(LinkExtractor(allow=('(concordia.ca/artsci/chemistry/)')), callback='parse_start_url', follow=True),
+                Rule(LinkExtractor(allow=('(concordia.ca/artsci/biology/)')), callback='parse_start_url', follow=True),
+                Rule(LinkExtractor(allow=('(concordia.ca/artsci/geography-planning-environment/)')), callback='parse_start_url', follow=True),
+                Rule(LinkExtractor(allow=('(concordia.ca/artsci/math-stats/)')), callback='parse_start_url', follow=True),
+                Rule(LinkExtractor(allow=('(concordia.ca/artsci/psychology/)')), callback='parse_start_url', follow=True),
+                Rule(LinkExtractor(allow=('(concordia.ca/artsci/science-college/)')), callback='parse_start_url', follow=True),
+            )
     links = []
     count = 0
     isDebug = False
@@ -39,7 +47,7 @@ class ConUSpider(CrawlSpider):
             deptId = 7
         elif bool(re.search("artsci\/science-college", url)):
             deptId = 8
-        return str(deptId)
+        return deptId
 
     @classmethod
     def from_crawler(cls, crawler, *args, **kwargs):
@@ -67,9 +75,8 @@ class ConUSpider(CrawlSpider):
         chunks = " ".join(list(filter(None, list((phrase.strip() for line in lines for phrase in line.split("  "))))))
 
         deptId = self.get_dept_id(response.url)
-        print deptId
         if deptId is not None:
-            scraper.afinn.afinnscript.getAfinnScore(chunks, deptId)
+            scraper.afinn.afinnscript.getAfinnScore(chunks, str(deptId))
         # THEN INDEX
         return
 
