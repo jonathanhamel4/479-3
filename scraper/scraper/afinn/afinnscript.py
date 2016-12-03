@@ -12,7 +12,7 @@ def getAfinnScore(text_string, dept_id):
 def loadAfinnDict(score, dept):
     dirName = os.path.dirname(os.path.abspath(__file__))
     filePath = os.path.join(dirName, 'scores/afinnscores.json')
-    print filePath
+    #print filePath
     with open(filePath, 'r') as data_file:
         data = json.load(data_file)
         print dept

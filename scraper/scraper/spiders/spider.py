@@ -15,33 +15,31 @@ class ConUSpider(CrawlSpider):
     name = "ConUSpider"
     allowed_domains = ['concordia.ca']
     start_urls = ['http://www.concordia.ca/artsci/physics.html']
-    #rules = (Rule(LinkExtractor(allow=('(concordia.ca/artsci/physics/)')), callback='parse_start_url', follow=True),)
+    rules = (Rule(LinkExtractor(allow=('(concordia.ca/artsci/physics/)')), callback='parse_start_url', follow=True),)
     links = []
     count = 0
     isDebug = False
 
-    @classmethod
-    def get_dept_id(url):
-        print "HERE"
+    def get_dept_id(self, url):
+        print url
         deptId = None
-        if bool(re.search(url, "artsci\/biology")):
+        if bool(re.search("artsci\/biology", url)):
             deptId = 1
-        elif bool(re.search(url, "artsci\/chemistry")):
+        elif bool(re.search("artsci\/chemistry", url)):
             deptId = 2
-        elif bool(re.search(url, "artsci\/exercise-science")):
+        elif bool(re.search("artsci\/exercise-science", url)):
             deptId = 3
-        elif bool(re.search(url, "artsci\/geography-planning-environment")):
+        elif bool(re.search("artsci\/geography-planning-environment", url)):
             deptId = 4
-        elif bool(re.search(url, "artsci\/math-stats")):
+        elif bool(re.search("artsci\/math-stats", url)):
             deptId = 5
-        elif bool(re.search(url, "artsci\/physics")):
+        elif bool(re.search("artsci\/physics", url)):
             deptId = 6
-        elif bool(re.search(url, "artsci\/psychology")):
+        elif bool(re.search("artsci\/psychology", url)):
             deptId = 7
-        elif bool(re.search(url, "artsci\/science-college")):
+        elif bool(re.search("artsci\/science-college", url)):
             deptId = 8
-        print str(deptId)
-        return deptId
+        return str(deptId)
 
     @classmethod
     def from_crawler(cls, crawler, *args, **kwargs):
@@ -67,15 +65,11 @@ class ConUSpider(CrawlSpider):
         text = soup.get_text()
         lines = (line.strip() for line in text.splitlines())
         chunks = " ".join(list(filter(None, list((phrase.strip() for line in lines for phrase in line.split("  "))))))
-        # drop blank lines
-        try:
-            self.get_dept_id(response.url)
-        except:
-            print "Unexpected error:", sys.exc_info()[0]
-            raise
 
-        #scraper.afinn.afinnscript.getAfinnScore(chunks, self.getDeptId(response.url))
-
+        deptId = self.get_dept_id(response.url)
+        print deptId
+        if deptId is not None:
+            scraper.afinn.afinnscript.getAfinnScore(chunks, deptId)
         # THEN INDEX
         return
 
