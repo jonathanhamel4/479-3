@@ -14,7 +14,7 @@ def loadAfinnDict(score, dept):
     dirName = os.path.dirname(os.path.abspath(__file__))
     filePath = os.path.join(dirName, 'scores/afinnscores.json')
     #print filePath
-    with open(filePath, 'r') as data_file:
+    with open(filePath, 'rw') as data_file:
         data = json.load(data_file)
         print dept
         scoreJson = data.get(dept, {})
@@ -23,5 +23,5 @@ def loadAfinnDict(score, dept):
         scoreJson["score"] = scoreDoc + score
         scoreJson["docs"] = numberDoc + 1
         data[dept] = scoreJson
-        with open(filePath, 'w') as data_file2:
-            json.dump(data, data_file2)
+    with open(filePath, 'w') as data_file2:
+        json.dump(data, data_file2)

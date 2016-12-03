@@ -8,6 +8,7 @@ from scrapy.exceptions import CloseSpider
 import sys
 import scraper.afinn.afinnscript
 import re
+import scraper.indexer.indexerscript
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
@@ -29,7 +30,6 @@ class ConUSpider(CrawlSpider):
     isDebug = False
 
     def get_dept_id(self, url):
-        print url
         deptId = None
         if bool(re.search("artsci\/biology", url)):
             deptId = 1
@@ -74,10 +74,15 @@ class ConUSpider(CrawlSpider):
         lines = (line.strip() for line in text.splitlines())
         chunks = " ".join(list(filter(None, list((phrase.strip() for line in lines for phrase in line.split("  "))))))
 
-        deptId = self.get_dept_id(response.url)
-        if deptId is not None:
-            scraper.afinn.afinnscript.getAfinnScore(chunks, str(deptId))
-        # THEN INDEX
+        try:
+            deptId = self.get_dept_id(response.url)
+            if deptId is not None:
+                scraper.afinn.afinnscript.getAfinnScore(chunks, str(deptId))
+
+            scraper.indexer.indexerscript.indexDocument(chunks, self.count, response.url)
+        except:
+            print "Unexpected error:", sys.exc_info()[0]
+            raise
         return
 
     def spider_closed(self, spider):
