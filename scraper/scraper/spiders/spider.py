@@ -27,7 +27,7 @@ class ConUSpider(CrawlSpider):
                 Rule(LinkExtractor(allow=('(concordia.ca/artsci/science-college/)')), callback='parse_start_url', follow=True),
             )
     links = []
-    count = 3080
+    count = 0
     isDebug = False
 
     def get_dept_id(self, url):
