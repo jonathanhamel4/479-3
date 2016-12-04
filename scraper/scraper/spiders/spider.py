@@ -15,8 +15,9 @@ sys.setdefaultencoding('utf-8')
 class ConUSpider(CrawlSpider):
     name = "ConUSpider"
     allowed_domains = ['concordia.ca']
-    start_urls = ['http://www.concordia.ca/artsci/physics.html', 'http://www.concordia.ca/artsci/chemistry.html', 'http://www.concordia.ca/artsci/biology.html', 'http://www.concordia.ca/artsci/geography-planning-environment.html', 'http://www.concordia.ca/artsci/math-stats.html', 'http://www.concordia.ca/artsci/psychology.html', 'http://www.concordia.ca/artsci/science-college.html']
+    start_urls = ['http://www.concordia.ca/artsci/physics.html', 'http://www.concordia.ca/artsci/chemistry.html', 'http://www.concordia.ca/artsci/biology.html', 'http://www.concordia.ca/artsci/geography-planning-environment.html', 'http://www.concordia.ca/artsci/math-stats.html', 'http://www.concordia.ca/artsci/psychology.html', 'http://www.concordia.ca/artsci/science-college.html', 'http://www.concordia.ca/artsci/exercise-science.html']
     rules = (
+                Rule(LinkExtractor(allow=('(concordia.ca/artsci/exercise-science/)')), callback='parse_start_url', follow=True),
                 Rule(LinkExtractor(allow=('(concordia.ca/artsci/physics/)')), callback='parse_start_url', follow=True),
                 Rule(LinkExtractor(allow=('(concordia.ca/artsci/chemistry/)')), callback='parse_start_url', follow=True),
                 Rule(LinkExtractor(allow=('(concordia.ca/artsci/biology/)')), callback='parse_start_url', follow=True),
@@ -26,7 +27,7 @@ class ConUSpider(CrawlSpider):
                 Rule(LinkExtractor(allow=('(concordia.ca/artsci/science-college/)')), callback='parse_start_url', follow=True),
             )
     links = []
-    count = 0
+    count = 3080
     isDebug = False
 
     def get_dept_id(self, url):

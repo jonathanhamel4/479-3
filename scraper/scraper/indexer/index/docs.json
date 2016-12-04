@@ -1,8 +1,4 @@
 {
-    "1615": {
-        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/jmsb/2017/01/18/gdba-gcba-information-session.html", 
-        "length": 630
-    }, 
     "344": {
         "url": "https://www.concordia.ca/artsci/psychology/students/graduate/program-statistics.html", 
         "length": 645
@@ -175,6 +171,10 @@
         "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/offices/vprgs/gradproskills/2017/02/10/career-professionalism.html", 
         "length": 661
     }, 
+    "581": {
+        "url": "https://www.concordia.ca/artsci/math-stats/news/archive/cunews/main/stories/2016/10/06/arts-science-scholars-151-leaders-of-tomorrow.html", 
+        "length": 1504
+    }, 
     "2268": {
         "url": "http://www.concordia.ca/artsci/physics/news/notices/cunews/artsci/physics/2016/04/14/prof--claudine-gauthier-is-awarded-a-heart-and-stroke-foundation.html", 
         "length": 585
@@ -335,6 +335,10 @@
         "url": "http://www.concordia.ca/artsci/math-stats/about/faculty.html", 
         "length": 841
     }, 
+    "3198": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/faculty.html?robert-panenic=", 
+        "length": 512
+    }, 
     "2048": {
         "url": "http://www.concordia.ca/artsci/biology/news/cunews/main/stories/2016/09/07/research-new-groups-of-molecules-could-be-key-to-delaying-aging.html", 
         "length": 1309
@@ -343,9 +347,29 @@
         "url": "http://www.concordia.ca/artsci/biology/news/cunews/main/stories/2016/02/25/cecil-the-lion-impact-on-local-lion-population.html", 
         "length": 1193
     }, 
+    "3150": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/about/faculty.html?fpid=simon-bacon", 
+        "length": 1050
+    }, 
+    "2839": {
+        "url": "https://www.concordia.ca/artsci/science-college/news/archive/cunews/offices/vpaer/aar/2016/07/12/one-of-canada_s-most-powerful-women.html", 
+        "length": 1107
+    }, 
+    "3154": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=sylvia-santosa", 
+        "length": 948
+    }, 
     "2038": {
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/main/2016/10/11/family-works-at-the-montreal-museum-of-fine-arts.html", 
         "length": 682
+    }, 
+    "2835": {
+        "url": "https://www.concordia.ca/artsci/science-college/news/archive/cunews/main/stories/2016/04/07/concordias-actuarial-mathletes-take-home-the-2016-munich-re-cup-mathematics-statistics.html", 
+        "length": 1314
+    }, 
+    "3158": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2013/03/27/just-weight-until-menopause.html", 
+        "length": 1133
     }, 
     "2688": {
         "url": "https://www.concordia.ca/artsci/geography-planning-environment/programs/current-students/program-requirements/urban-planning-studies.html", 
@@ -435,17 +459,17 @@
         "url": "https://www.concordia.ca/artsci/chemistry/contact.html", 
         "length": 725
     }, 
-    "1623": {
-        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/artsci/polanyi/2017/01/a-great-transformation-global-perspectives-contemporary-capitalism.html", 
-        "length": 587
+    "3207": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/students/cunews/main/stories/2016/11/29/health-benefits-rate-for-cupfa-and-cuceptfu-2016-2017.html", 
+        "length": 815
     }, 
-    "1990": {
-        "url": "http://www.concordia.ca/artsci/biology/events/cuevents/finearts/db-clarke-theatre/2016/12/09/Its-a-wonderful-life.html", 
-        "length": 745
+    "1622": {
+        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/offices/provost/ssc/2017/01/11/getting-organized-and-managing-your-time.html", 
+        "length": 640
     }, 
-    "1621": {
-        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/artsci/polisci/wssr/2017/wssr2017.html", 
-        "length": 777
+    "1993": {
+        "url": "http://www.concordia.ca/artsci/biology/events/cuevents/main/2016/12/08/searching-for-hope-in-syria-in-conversation-with-the-white-helmets.html", 
+        "length": 727
     }, 
     "1620": {
         "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/offices/provost/health/2017/01/16/pap-clinic.html", 
@@ -482,6 +506,14 @@
     "1628": {
         "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/finearts/oscar-peterson/2016/12/18/Concert.html", 
         "length": 637
+    }, 
+    "3209": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/students/cunews/artsci/exercise-science/2015/06/16/amy-barrette.html", 
+        "length": 567
+    }, 
+    "3208": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/students/cunews/main/stories/2016/12/01/tuition-fees-are-due-january-1-2017.html", 
+        "length": 695
     }, 
     "2860": {
         "url": "https://www.concordia.ca/artsci/geography-planning-environment/news/archive/cunews/main/stories/2015/11/10/damon-matthews-world-science-forum-climate-change-budapest.html", 
@@ -895,10 +927,6 @@
         "url": "https://www.concordia.ca/artsci/math-stats/news.html", 
         "length": 677
     }, 
-    "2192": {
-        "url": "http://www.concordia.ca/artsci/math-stats/events/cuevents/artsci/math-stats/2016/12/11/math-circle.html", 
-        "length": 851
-    }, 
     "2030": {
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/main/2016/11/12/Id-rather-something-ambiguous-mais-precis-a-la-fois.html", 
         "length": 835
@@ -930,6 +958,10 @@
     "378": {
         "url": "https://www.concordia.ca/artsci/biology/faculty.html.html?fpid=michael-sacher", 
         "length": 1408
+    }, 
+    "3194": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/about/faculty.html", 
+        "length": 1050
     }, 
     "371": {
         "url": "https://www.concordia.ca/artsci/biology/faculty.html.html?fpid=reginald-storms", 
@@ -966,6 +998,10 @@
     "1244": {
         "url": "http://www.concordia.ca/artsci/science-college/faculty.html?fpid=wayne-brake", 
         "length": 2036
+    }, 
+    "3093": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/students.html", 
+        "length": 1213
     }, 
     "393": {
         "url": "https://www.concordia.ca/artsci/biology/research.html", 
@@ -1131,6 +1167,10 @@
         "url": "http://www.concordia.ca/artsci/chemistry/news/events.html", 
         "length": 508
     }, 
+    "1248": {
+        "url": "http://www.concordia.ca/artsci/science-college/faculty.html?fpid=veronique-pepin", 
+        "length": 1021
+    }, 
     "2459": {
         "url": "http://www.concordia.ca/artsci/chemistry/news/events/archive/cuevents/artsci/chemistry/2016/11/18/kakkar-16.html", 
         "length": 742
@@ -1259,13 +1299,13 @@
         "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/offices/provost/ssc/2017/03/08/improving-your-memory-and-concentration.html", 
         "length": 600
     }, 
-    "652": {
-        "url": "https://www.concordia.ca/artsci/math-stats/faculty.html?fpid=jeremy-macdonald", 
-        "length": 516
+    "1506": {
+        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/artsci/polisci/wssr/2017/03/31/parekhworkshop.html", 
+        "length": 877
     }, 
-    "1507": {
-        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/artsci/polisci/wssr/2017/03/30/parekhtalk.html", 
-        "length": 848
+    "3088": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/cunews/main/stories/2016/03/18/world-sleep-day-cognition-child-development-jennifer-mcgrath-thien-thanh-dang-vu.html", 
+        "length": 1474
     }, 
     "1367": {
         "url": "http://www.concordia.ca/artsci/psychology/programs/graduate/research.html", 
@@ -1279,17 +1319,29 @@
         "url": "https://www.concordia.ca/artsci/math-stats/faculty.html?fpid=nataliia-rossokhata", 
         "length": 534
     }, 
-    "2157": {
-        "url": "http://www.concordia.ca/artsci/math-stats/news/archive/cunews/main/stories/2016/10/06/arts-science-scholars-151-leaders-of-tomorrow.html", 
-        "length": 1504
+    "1508": {
+        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/artsci/polisci/wssr/2017/03/24/lenardworkshop.html", 
+        "length": 883
     }, 
     "1364": {
         "url": "http://www.concordia.ca/artsci/psychology/research/clinical-health-research.html/%20.html", 
         "length": 714
     }, 
+    "3086": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/cunews/artsci/exercise-science/2016/11/22/our-students.html", 
+        "length": 609
+    }, 
+    "338": {
+        "url": "https://www.concordia.ca/artsci/biology/news/cunews/main/stories/2013/04/30/a-fingernail-sized-laboratory-to-study-sperm-release.html", 
+        "length": 1021
+    }, 
     "1977": {
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/artsci/math-stats/2016/12/11/math-circle.html", 
         "length": 886
+    }, 
+    "658": {
+        "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/offices/provost/ssc/2017/03/22/planning-designing-and-delivering-oral-presentations.html", 
+        "length": 600
     }, 
     "2699": {
         "url": "https://www.concordia.ca/artsci/geography-planning-environment/about/faculty.html?fpid=pierre-gauthier", 
@@ -1331,9 +1383,13 @@
         "url": "https://www.concordia.ca/artsci/geography-planning-environment/programs/current-students/program-requirements/human-environment-requirements.html", 
         "length": 784
     }, 
-    "1974": {
-        "url": "http://www.concordia.ca/artsci/biology/events/cuevents/main/2016/12/13/hospitality-concordia-holiday-luncheon-2016.html", 
-        "length": 704
+    "2405": {
+        "url": "http://www.concordia.ca/artsci/chemistry/cbgrc/presentations/abstract-submission-form.html", 
+        "length": 330
+    }, 
+    "3226": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/students/cunews/artsci/exercise-science/2016/10/28/arts-and-science-scholars-2016.html", 
+        "length": 646
     }, 
     "1973": {
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/artsci/philosophy/2016/12/15/PHILDefenceRamusovic.html", 
@@ -1354,6 +1410,22 @@
     "1362": {
         "url": "http://www.concordia.ca/artsci/psychology/programs/graduate/research-clinical-training/sequence.html", 
         "length": 716
+    }, 
+    "3232": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/artsci/exercise-science/2016/10/28/arts-and-science-scholars-2016.html", 
+        "length": 646
+    }, 
+    "3233": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/artsci/exercise-science/2016/11/22/our-students.html", 
+        "length": 611
+    }, 
+    "3230": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/artsci/exercise-science/2015/06/16/amy-barrette.html", 
+        "length": 567
+    }, 
+    "3231": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/artsci/exercise-science/2015/10/23/2014-2015-arts-and-science-scholars.html", 
+        "length": 576
     }, 
     "1968": {
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/provost/iso/2016/12/16/iso-social-christmas-village-at-place-des-arts.html", 
@@ -1383,9 +1455,9 @@
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/main/2016/12/16/2016-ccs-benefit-concert-with-the-i-medici-di-mcgill-orchestra.html", 
         "length": 679
     }, 
-    "1967": {
-        "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/provost/iso/2016/12/16/work-in-montreal-for-international-students-workshop.html", 
-        "length": 667
+    "3239": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/encs/computer-science/2016/11/28/Seminar-by-Dr-Aiko-Yamashita.html", 
+        "length": 689
     }, 
     "1960": {
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/vprgs/sgs/2016/12/19/phd-oral-exam-150-mitra-bahri-civil-engineering.html", 
@@ -1402,6 +1474,10 @@
     "1611": {
         "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/jmsb/2017/01/24/mba-information-session.html", 
         "length": 624
+    }, 
+    "1985": {
+        "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/provost/iso/2016/12/09/iso-social-exams-coffee-break-at-iso.html", 
+        "length": 649
     }, 
     "1749": {
         "url": "http://www.concordia.ca/artsci/biology/students/advising-support.html", 
@@ -1450,6 +1526,10 @@
     "2878": {
         "url": "https://www.concordia.ca/artsci/geography-planning-environment/news/archive/cunews/main/stories/2016/09/13/newest-royal-society-of-canada-member-damon-matthews.html", 
         "length": 1096
+    }, 
+    "1360": {
+        "url": "http://www.concordia.ca/artsci/psychology/news/archive/cunews/main/stories/2016/02/04/rapid-hiv-testing-consent-awareness-and-more-at-sex-fair.html", 
+        "length": 1045
     }, 
     "1768": {
         "url": "http://www.concordia.ca/artsci/biology/events.html?audience=parents", 
@@ -1635,17 +1715,17 @@
         "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/offices/vpaer/oce/2017/02/07/indigenizing-course-content.html", 
         "length": 844
     }, 
-    "761": {
-        "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/offices/provost/ssc/2017/02/07/reading-your-psychology-and-social-sciences-textbooks.html", 
-        "length": 612
+    "1783": {
+        "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/provost/ssc/2017/03/08/improving-your-memory-and-concentration.html", 
+        "length": 599
     }, 
     "1784": {
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/provost/ssc/2017/03/21/getting-organized-and-managing-your-time.html", 
         "length": 639
     }, 
-    "2968": {
-        "url": "http://www.concordia.ca/artsci/geography-planning-environment/student-life/groups.html", 
-        "length": 533
+    "1785": {
+        "url": "http://www.concordia.ca/artsci/biology/events/cuevents/jmsb/2017/03/03/jmsb-life-undergraduate-guide-to-switching-majors.html", 
+        "length": 678
     }, 
     "1786": {
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/provost/ssc/2017/03/02/avoiding-plagiarism-at-the-graduate-level.html", 
@@ -1763,6 +1843,10 @@
         "url": "https://www.concordia.ca/artsci/psychology/faculty.html?fpid=wayne-brake", 
         "length": 2078
     }, 
+    "1368": {
+        "url": "http://www.concordia.ca/artsci/psychology/programs/graduate/clinical-psychology-certificate.html", 
+        "length": 554
+    }, 
     "380": {
         "url": "https://www.concordia.ca/artsci/biology/faculty.html.html?fpid=alisa-piekny", 
         "length": 924
@@ -1803,9 +1887,9 @@
         "url": "https://www.concordia.ca/artsci/biology/faculty.html.html?fpid=catherine-bachewich", 
         "length": 1320
     }, 
-    "1077": {
-        "url": "https://www.concordia.ca/artsci/chemistry/news/events/archive/cuevents/artsci/chemistry/2016/05/16/bernal-2016.html", 
-        "length": 599
+    "3216": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=robert-kilgour", 
+        "length": 1037
     }, 
     "2190": {
         "url": "http://www.concordia.ca/artsci/math-stats/events/cuevents/artsci/math-stats/2016/12/04/math-circle.html", 
@@ -1815,9 +1899,9 @@
         "url": "http://www.concordia.ca/artsci/math-stats/events/cuevents/artsci/math-stats/2016/12/09/msc-thesis-defence-in-mathematics.html", 
         "length": 723
     }, 
-    "258": {
-        "url": "https://www.concordia.ca/artsci/physics/news/archive/cunews/main/stories/2016/10/03/3d-soundscapes-and-brain-imaging-return-of-beyond-disciplines.html", 
-        "length": 1434
+    "2192": {
+        "url": "http://www.concordia.ca/artsci/math-stats/events/cuevents/artsci/math-stats/2016/12/11/math-circle.html", 
+        "length": 851
     }, 
     "259": {
         "url": "https://www.concordia.ca/artsci/physics/news/notices/cunews/artsci/physics/2016/01/28/physics-department-newsletter---january-2016.html", 
@@ -1911,6 +1995,10 @@
         "url": "http://www.concordia.ca/artsci/math-stats/profiles/joel-hillel.html", 
         "length": 511
     }, 
+    "3210": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=nancy-stonge", 
+        "length": 798
+    }, 
     "2428": {
         "url": "http://www.concordia.ca/artsci/chemistry/cbgrc/about/guest-speakers.html", 
         "length": 592
@@ -1998,6 +2086,10 @@
     "163": {
         "url": "https://www.concordia.ca/artsci/chemistry/news/cunews/main/stories/2015/10/13/ada-lovelace-women-in-stem-research.html", 
         "length": 1375
+    }, 
+    "3212": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=veronique-pepin", 
+        "length": 1060
     }, 
     "2518": {
         "url": "http://www.concordia.ca/artsci/chemistry/programs/graduate/msc-chemistry.html", 
@@ -2154,6 +2246,14 @@
     "1608": {
         "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/artsci/polisci/wssr/2017/01/27/eisenbergworkshop.html", 
         "length": 852
+    }, 
+    "3229": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cuevents/artsci/math-stats/2016/12/04/math-circle.html", 
+        "length": 886
+    }, 
+    "3228": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cuevents/main/2016/12/08/concordia-university-annual-christmas-auction.html", 
+        "length": 715
     }, 
     "1979": {
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/provost/health/2016/12/12/pap-clinic.html", 
@@ -2367,6 +2467,10 @@
         "url": "https://www.concordia.ca/artsci/chemistry/programs/undergraduate/bsc-biochemistry/honours.html", 
         "length": 888
     }, 
+    "2807": {
+        "url": "https://www.concordia.ca/artsci/science-college/news/public-lecture-series/past-lectures/periodic-table-story-significance.html", 
+        "length": 835
+    }, 
     "1555": {
         "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/jmsb/2017/03/29/executive-master-of-business-emba-information-session.html", 
         "length": 642
@@ -2471,6 +2575,10 @@
         "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/finearts/theatre/2017/04/dwellings.html", 
         "length": 615
     }, 
+    "1518": {
+        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/offices/vprgs/gradproskills/2017/02/10/career-professionalism.html", 
+        "length": 661
+    }, 
     "2992": {
         "url": "http://www.concordia.ca/artsci/geography-planning-environment/news/notices/cunews/artsci/geography/2016/03/31/register-for-our-new-summer-gis-certification-program-.html", 
         "length": 1224
@@ -2495,6 +2603,10 @@
         "url": "http://www.concordia.ca/artsci/geography-planning-environment/news/archive/cunews/offices/vpaer/aar/2014/09/15/weather-forecast-new-solutions-on-the-way.html", 
         "length": 3053
     }, 
+    "2805": {
+        "url": "https://www.concordia.ca/artsci/science-college/news/public-lecture-series/past-lectures/brain-and-memory.html", 
+        "length": 756
+    }, 
     "2996": {
         "url": "http://www.concordia.ca/artsci/geography-planning-environment/news/archive/cunews/main/stories/2015/10/07/why-canada-needs-to-transition-to-a-low-carbon-economy-and-how.html", 
         "length": 1251
@@ -2502,6 +2614,10 @@
     "2997": {
         "url": "http://www.concordia.ca/artsci/geography-planning-environment/news/archive/cunews/main/stories/2015/09/08/climate-change-global-warming-research-damon-matthews.html", 
         "length": 1449
+    }, 
+    "1905": {
+        "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/provost/ssc/2017/02/07/exam-strategies-for-business-engineering-and-computer-science-students.html", 
+        "length": 625
     }, 
     "536": {
         "url": "https://www.concordia.ca/artsci/math-stats/faculty.html?fpid=fred-szabo", 
@@ -2551,9 +2667,9 @@
         "url": "https://www.concordia.ca/artsci/psychology/news/cunews/main/stories/2016/09/21/research-map-reading-is-easier-when-ovulating.html", 
         "length": 1196
     }, 
-    "426": {
-        "url": "https://www.concordia.ca/artsci/psychology/news/cunews/main/stories/2016/08/31/concordia-appoints-habib-benali-as-interim-scientific-director-of-perform.html", 
-        "length": 1486
+    "1390": {
+        "url": "http://www.concordia.ca/artsci/science-college/program/admissions.html", 
+        "length": 886
     }, 
     "530": {
         "url": "https://www.concordia.ca/artsci/math-stats/news/archive/cunews/main/stories/2013/01/28/concordia-earns-center-of-actuarial-excellence-designation.html", 
@@ -2562,6 +2678,14 @@
     "1420": {
         "url": "http://www.concordia.ca/artsci/math-stats/faculty.html?fpid=harald-proppe", 
         "length": 509
+    }, 
+    "1680": {
+        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/jmsb/2016/12/05/mba-information-session.html", 
+        "length": 624
+    }, 
+    "258": {
+        "url": "https://www.concordia.ca/artsci/physics/news/archive/cunews/main/stories/2016/10/03/3d-soundscapes-and-brain-imaging-return-of-beyond-disciplines.html", 
+        "length": 1434
     }, 
     "2331": {
         "url": "http://www.concordia.ca/artsci/chemistry/news/events/grad-seminars.html", 
@@ -2671,9 +2795,9 @@
         "url": "http://www.concordia.ca/artsci/math-stats/faculty.html?fpid=uchenna-mgbemena", 
         "length": 496
     }, 
-    "2230": {
-        "url": "http://www.concordia.ca/artsci/math-stats/faculty.html?fpid=victor-kalvin", 
-        "length": 605
+    "1160": {
+        "url": "https://www.concordia.ca/artsci/chemistry/programs/undergraduate/advanced-courses.html", 
+        "length": 1524
     }, 
     "151": {
         "url": "https://www.concordia.ca/artsci/chemistry/faculty.html?fpid=cameron-skinner", 
@@ -2863,13 +2987,17 @@
         "url": "http://www.concordia.ca/artsci/biology/events.html?category=social-events%2Ffairs-festivals", 
         "length": 657
     }, 
-    "632": {
-        "url": "https://www.concordia.ca/artsci/math-stats/faculty.html?fpid=umanath-tiwari", 
-        "length": 496
+    "3089": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/cuevents/artsci/2016/05/19/international-behavioural-trials-network-conference.html", 
+        "length": 895
     }, 
-    "1256": {
-        "url": "http://www.concordia.ca/artsci/science-college/news/public-lecture-series/past-lectures/hiding-in-mirror.html", 
-        "length": 803
+    "3258": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/notices/cunews/artsci/exercise-science/2016/10/28/arts-and-science-scholars-2016.html", 
+        "length": 648
+    }, 
+    "3259": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/notices/cunews/artsci/exercise-science/2016/11/22/our-students.html", 
+        "length": 613
     }, 
     "1948": {
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/provost/ssc/2017/01/19/getting-started-understanding-the-assignment-and-generating-ideas.html", 
@@ -2911,9 +3039,9 @@
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/artsci/polisci/wssr/2017/01/27/kingsleyworkshop.html", 
         "length": 791
     }, 
-    "1945": {
-        "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/provost/ssc/2017/01/18/strategies-for-learning-in-your-second-language.html", 
-        "length": 608
+    "3257": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/notices/cunews/artsci/exercise-science/2015/10/23/2014-2015-arts-and-science-scholars.html", 
+        "length": 578
     }, 
     "818": {
         "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/finearts/music/2016/12/15.html", 
@@ -2963,17 +3091,17 @@
         "url": "https://www.concordia.ca/artsci/geography-planning-environment/news/archive/cunews/main/stories/2015/10/15/climate-change-leap-manifesto-damon-matthews.html", 
         "length": 1275
     }, 
-    "1991": {
-        "url": "http://www.concordia.ca/artsci/biology/events/cuevents/finearts/dance/2016/12/december_shows.html", 
-        "length": 668
+    "1623": {
+        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/artsci/polanyi/2017/01/a-great-transformation-global-perspectives-contemporary-capitalism.html", 
+        "length": 587
     }, 
     "1250": {
         "url": "http://www.concordia.ca/artsci/science-college/news/public-lecture-series/past-lectures/brain-and-memory.html", 
         "length": 756
     }, 
-    "1622": {
-        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/offices/provost/ssc/2017/01/11/getting-organized-and-managing-your-time.html", 
-        "length": 640
+    "3206": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/about/faculty.html?fpid=simon-bacon", 
+        "length": 1050
     }, 
     "2851": {
         "url": "https://www.concordia.ca/artsci/science-college/news/public-lecture-series/past-lectures/changing-stories-of-our-lives.html", 
@@ -2995,9 +3123,9 @@
         "url": "https://www.concordia.ca/artsci/science-college/news/public-lecture-series/past-lectures/climate-change-mitigation-and-tropical-forests.html", 
         "length": 677
     }, 
-    "1993": {
-        "url": "http://www.concordia.ca/artsci/biology/events/cuevents/main/2016/12/08/searching-for-hope-in-syria-in-conversation-with-the-white-helmets.html", 
-        "length": 727
+    "3205": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/about/faculty.html?fpid=peter-darlington", 
+        "length": 1050
     }, 
     "2857": {
         "url": "https://www.concordia.ca/artsci/science-college/student-life/coffee-hour.html", 
@@ -3043,17 +3171,17 @@
         "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/artsci/polisci/wssr/2017/05/23/bercusonworkshop.html", 
         "length": 753
     }, 
-    "1499": {
-        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/artsci/polisci/wssr/2017/05/19/robertworkshop.html", 
-        "length": 836
+    "3203": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/about/faculty.html?fpid=robert-kilgour", 
+        "length": 1050
     }, 
     "1395": {
         "url": "http://www.concordia.ca/artsci/math-stats/faculty.html?fpid=debaraj-sen", 
         "length": 521
     }, 
-    "1626": {
-        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/offices/provost/faao/2016/12/20/budgeting-to-your-values.html", 
-        "length": 604
+    "3202": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/about/faculty.html?fpid=sylvia-santosa", 
+        "length": 1050
     }, 
     "1700": {
         "url": "http://www.concordia.ca/artsci/biology/cunews/artsci/biology/2016/4/26/beyond-the-books-event-explores-post-university-careers.html", 
@@ -3107,9 +3235,9 @@
         "url": "http://www.concordia.ca/artsci/math-stats/faculty.html?fpid=elie-cohen", 
         "length": 510
     }, 
-    "1390": {
-        "url": "http://www.concordia.ca/artsci/science-college/program/admissions.html", 
-        "length": 886
+    "426": {
+        "url": "https://www.concordia.ca/artsci/psychology/news/cunews/main/stories/2016/08/31/concordia-appoints-habib-benali-as-interim-scientific-director-of-perform.html", 
+        "length": 1486
     }, 
     "1128": {
         "url": "https://www.concordia.ca/artsci/chemistry/faculty.html?fpid=peter-bird", 
@@ -3363,17 +3491,29 @@
         "url": "https://www.concordia.ca/artsci/geography-planning-environment/news/archive/cunews/main/stories/2015/12/15/damon-matthews-after-paris-climate-change-up-to-all-of-us.html", 
         "length": 1355
     }, 
+    "1967": {
+        "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/provost/iso/2016/12/16/work-in-montreal-for-international-students-workshop.html", 
+        "length": 667
+    }, 
     "555": {
         "url": "https://www.concordia.ca/artsci/math-stats/faculty.html?fpid=ewa-duma", 
         "length": 506
+    }, 
+    "3162": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2013/09/11/teens-interestedinmorethanmuscles.html", 
+        "length": 1026
     }, 
     "2869": {
         "url": "https://www.concordia.ca/artsci/geography-planning-environment/news/archive/cunews/main/stories/2016/05/12/5-top-ways-to-use-gis.html", 
         "length": 1223
     }, 
-    "1162": {
-        "url": "https://www.concordia.ca/artsci/chemistry/programs/undergraduate/procedures-forms/chem101-statement-plagiarism-academic-code.html", 
-        "length": 1804
+    "3082": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/about.html", 
+        "length": 779
+    }, 
+    "3160": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news.html?content-main_news_grid_list_0_start=18&rootnav=artsci%2Fexercise-science%2Fnews", 
+        "length": 646
     }, 
     "995": {
         "url": "https://www.concordia.ca/artsci/psychology/faculty.html?fpid=mdean-graham", 
@@ -3543,6 +3683,10 @@
         "url": "http://www.concordia.ca/artsci/biology/news/cunews/main/stories/2013/02/01/concordia-grad-heads-top-sporting-body.html", 
         "length": 824
     }, 
+    "121": {
+        "url": "https://www.concordia.ca/artsci/chemistry/cbgrc/registration/form.html", 
+        "length": 387
+    }, 
     "2082": {
         "url": "http://www.concordia.ca/artsci/math-stats/news/notices/cunews/artsci/math-stats/2012/10/19/szabo-wins-wolfram-innovator-award.html", 
         "length": 598
@@ -3687,6 +3831,10 @@
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/artsci/polisci/wssr/2017/03/03/fraserworkshop.html", 
         "length": 941
     }, 
+    "3090": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/cuevents/artsci/2016/04/07/decreasing-injury-by-reducing-head-impacts-in-football.html", 
+        "length": 730
+    }, 
     "1838": {
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/artsci/polisci/wssr/2017/03/10/rempelworkshop.html", 
         "length": 888
@@ -3703,13 +3851,13 @@
         "url": "http://www.concordia.ca/artsci/math-stats/news/archive/cunews/main/stories/2016/05/25/1800-avid-experiential-learners-co-op-awards.html", 
         "length": 1562
     }, 
-    "2404": {
-        "url": "http://www.concordia.ca/artsci/chemistry/news/events/archive/cuevents/offices/vprgs/sgs/2016/02/11/phd-oral-exam-xijun-wang-chemistry.html", 
+    "2156": {
+        "url": "http://www.concordia.ca/artsci/math-stats/news/archive/cunews/offices/vpaer/aar/2016/07/12/one-of-canada_s-most-powerful-women.html", 
         "length": 1097
     }, 
-    "2405": {
-        "url": "http://www.concordia.ca/artsci/chemistry/cbgrc/presentations/abstract-submission-form.html", 
-        "length": 330
+    "2157": {
+        "url": "http://www.concordia.ca/artsci/math-stats/news/archive/cunews/main/stories/2016/10/06/arts-science-scholars-151-leaders-of-tomorrow.html", 
+        "length": 1504
     }, 
     "2150": {
         "url": "http://www.concordia.ca/artsci/math-stats/news/archive/cunews/artsci/math-stats/2016/04/04/in-memory-of-fedor-soloviev.html", 
@@ -3759,13 +3907,17 @@
         "url": "http://www.concordia.ca/artsci/chemistry/cbgrc/registration/form.html", 
         "length": 387
     }, 
+    "2829": {
+        "url": "https://www.concordia.ca/artsci/science-college/news/archive/cunews/main/stories/2016/02/05/ceo-for-a-day-jason-azzoparde-andre-bourbonnais-psp-investments.html", 
+        "length": 1293
+    }, 
     "1955": {
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/artsci/polanyi/2017/01/a-great-transformation-global-perspectives-contemporary-capitalism.html", 
         "length": 586
     }, 
-    "1954": {
-        "url": "http://www.concordia.ca/artsci/biology/events/cuevents/finearts/fofa/2017/01/16/undergraduat-student-exhibition.html", 
-        "length": 4423
+    "1991": {
+        "url": "http://www.concordia.ca/artsci/biology/events/cuevents/finearts/dance/2016/12/december_shows.html", 
+        "length": 668
     }, 
     "1957": {
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/main/2017/05/jmsb-life-orientation-for-incoming-international-students.html", 
@@ -3798,6 +3950,50 @@
     "1958": {
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/provost/faao/2016/12/20/budgeting-to-your-values.html", 
         "length": 603
+    }, 
+    "3249": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2014/04/09/women-in-research.html", 
+        "length": 2162
+    }, 
+    "3248": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2014/02/26/can-a-simple-handshakepredictcancersurvivalrates.html", 
+        "length": 914
+    }, 
+    "3096": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/artsci/exercise-science/2015/06/16/amy-barrette.html", 
+        "length": 567
+    }, 
+    "3243": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2015/10/07/just-30-minutes-a-day-regular-exercise-relieves-asthma-symptoms-bacon-simon.html", 
+        "length": 1220
+    }, 
+    "3242": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/offices/vpaer/aar/2015/05/13/remembering-a-man-born-to-run.html", 
+        "length": 1156
+    }, 
+    "3241": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news.html?content-main_news_grid_list_0_start=6&rootnav=artsci%2Fexercise-science%2Fnews", 
+        "length": 681
+    }, 
+    "3240": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/encs/info-systems-eng/defences/2016/12/06/cluster-analysis-multivariate-data-using-scaled-dirichlet-finite-mixture-model.html", 
+        "length": 827
+    }, 
+    "3247": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2016/05/06/how-to-find-the-right-online-health-advice-joe-schwarcz-simon-bacon-exercise-science.html", 
+        "length": 1747
+    }, 
+    "3246": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2016/03/18/world-sleep-day-cognition-child-development-jennifer-mcgrath-thien-thanh-dang-vu.html", 
+        "length": 1476
+    }, 
+    "3245": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2016/02/03/athletic-therapy-alum-jean-baptiste-laporte-carolina-panthers-super-bowl.html", 
+        "length": 1577
+    }, 
+    "1990": {
+        "url": "http://www.concordia.ca/artsci/biology/events/cuevents/finearts/db-clarke-theatre/2016/12/09/Its-a-wonderful-life.html", 
+        "length": 745
     }, 
     "829": {
         "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/offices/vpaer/oce/2016/12/10/2016-07-25_stories-of-the-city-night-.html", 
@@ -3838,6 +4034,10 @@
     "822": {
         "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/offices/vprgs/sgs/2016/12/13/phd-oral-exam-150-tony-bongiorno-business-administration-management.html", 
         "length": 998
+    }, 
+    "3097": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/artsci/exercise-science/2015/10/23/2014-2015-arts-and-science-scholars.html", 
+        "length": 576
     }, 
     "1536": {
         "url": "http://www.concordia.ca/artsci/psychology/events.html?category=social-events%2Ffairs-festivals", 
@@ -3955,9 +4155,9 @@
         "url": "https://www.concordia.ca/artsci/psychology/events.html?audience=concordia-community%2Ffaculty", 
         "length": 804
     }, 
-    "2414": {
-        "url": "http://www.concordia.ca/artsci/chemistry/news/events/archive/cuevents/artsci/chemistry/2016/04/01/shoubridge-2016.html", 
-        "length": 723
+    "2142": {
+        "url": "http://www.concordia.ca/artsci/math-stats/news/archive/cunews/main/stories/2015/11/10/childhood-obesity-is-linked-to-poverty-and-parenting-style.html", 
+        "length": 1111
     }, 
     "1139": {
         "url": "https://www.concordia.ca/artsci/chemistry/news/archive/cunews/offices/vpaer/aar/2016/07/25/concordia-grad-has-the-right-chemistry.html", 
@@ -4015,7 +4215,7 @@
         "url": "http://www.concordia.ca/artsci/chemistry/news/events/archive/cuevents/artsci/chemistry/2016/04/08/major-2016.html", 
         "length": 807
     }, 
-    "numDocs": 3079, 
+    "numDocs": 3277, 
     "615": {
         "url": "https://www.concordia.ca/artsci/math-stats/profiles/mohammad-najafi-ivaki.html", 
         "length": 523
@@ -4164,6 +4364,10 @@
         "url": "http://www.concordia.ca/artsci/science-college/program.html", 
         "length": 932
     }, 
+    "1535": {
+        "url": "http://www.concordia.ca/artsci/psychology/events.html?category=social-events%2Fmeetings", 
+        "length": 632
+    }, 
     "2882": {
         "url": "https://www.concordia.ca/artsci/geography-planning-environment/news/archive/cunews/main/stories/2016/10/17/mtltrajet-an-app-with-street-smarts-travel-survey-zak-patterson.html", 
         "length": 1331
@@ -4208,6 +4412,10 @@
         "url": "http://www.concordia.ca/artsci/chemistry.html", 
         "length": 595
     }, 
+    "3196": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2013/02/28/doing-a-good-deed-with-a-good-workout.html", 
+        "length": 1000
+    }, 
     "1561": {
         "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/offices/provost/ssc/2017/03/21/career-development-day-for-students-with-disabilities--career-fa.html", 
         "length": 659
@@ -4215,10 +4423,6 @@
     "1714": {
         "url": "http://www.concordia.ca/artsci/psychology/faculty.html?fpid=anna-beth-doyle", 
         "length": 678
-    }, 
-    "2958": {
-        "url": "http://www.concordia.ca/artsci/chemistry/news/archive/cunews/main/stories/2016/08/02/7-new-university-research-chairs-represent-concordias-leading-edge.html", 
-        "length": 1055
     }, 
     "11": {
         "url": "http://www.concordia.ca/artsci/science-college/cunews/artsci/science-college/2016/02/02/coffee-hour-winter-2016.html", 
@@ -4260,9 +4464,41 @@
         "url": "http://www.concordia.ca/artsci/science-college/news.html", 
         "length": 546
     }, 
-    "3027": {
-        "url": "http://www.concordia.ca/artsci/geography-planning-environment/news/events/cuevents/artsci/geography/2014/11/28/interdisciplinary-partnerships-conservation-cree-nation-eeyou-istchee.html", 
-        "length": 765
+    "3274": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2013/11/05/arts-and-sciencefacultyhonoured.html", 
+        "length": 718
+    }, 
+    "1923": {
+        "url": "http://www.concordia.ca/artsci/biology/faculty.html?fpid=vincent-martin", 
+        "length": 1844
+    }, 
+    "3272": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2013/09/11/teens-interestedinmorethanmuscles.html", 
+        "length": 1026
+    }, 
+    "1925": {
+        "url": "http://www.concordia.ca/artsci/biology/students/cunews/artsci/biology/2016/4/26/beyond-the-books-event-explores-post-university-careers.html", 
+        "length": 588
+    }, 
+    "3270": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2013/03/12/the-heart-brain-connection.html", 
+        "length": 1079
+    }, 
+    "3271": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2013/03/27/just-weight-until-menopause.html", 
+        "length": 1133
+    }, 
+    "2742": {
+        "url": "https://www.concordia.ca/artsci/geography-planning-environment/news/events/cuevents/artsci/geography/2014/03/28/goals-priorities-assumptions-transport-planning-examining-environmental-distributional-justice-transport-sector.html", 
+        "length": 708
+    }, 
+    "3278": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2013/02/28/doing-a-good-deed-with-a-good-workout.html", 
+        "length": 1000
+    }, 
+    "3192": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/about/jobs.html", 
+        "length": 625
     }, 
     "201": {
         "url": "https://www.concordia.ca/artsci/biology/programs/graduate/phd-biology.html", 
@@ -4332,9 +4568,9 @@
         "url": "http://www.concordia.ca/artsci/math-stats/faculty.html?fpid=ionica-groparu-cojocaru", 
         "length": 510
     }, 
-    "1577": {
-        "url": "http://www.concordia.ca/artsci/psychology/events.html?category=all", 
-        "length": 4185
+    "2230": {
+        "url": "http://www.concordia.ca/artsci/math-stats/faculty.html?fpid=victor-kalvin", 
+        "length": 605
     }, 
     "2233": {
         "url": "http://www.concordia.ca/artsci/math-stats/faculty.html?fpid=frederic-godin", 
@@ -4363,6 +4599,10 @@
     "1575": {
         "url": "http://www.concordia.ca/artsci/psychology/events.html?category=arts-culture%2Fconcerts", 
         "length": 1019
+    }, 
+    "3190": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/about/faculty.html?fpid=veronique-pepin", 
+        "length": 1050
     }, 
     "1574": {
         "url": "http://www.concordia.ca/artsci/psychology/events.html?category=arts-culture%2Fdance", 
@@ -4560,9 +4800,9 @@
         "url": "http://www.concordia.ca/artsci/math-stats/news/archive/cunews/main/stories/2015/12/10/alfie-plenzich-fred-szabo-reflect-on-their-years-at-concordia-long-service.html", 
         "length": 1314
     }, 
-    "2142": {
-        "url": "http://www.concordia.ca/artsci/math-stats/news/archive/cunews/main/stories/2015/11/10/childhood-obesity-is-linked-to-poverty-and-parenting-style.html", 
-        "length": 1111
+    "2414": {
+        "url": "http://www.concordia.ca/artsci/chemistry/news/events/archive/cuevents/artsci/chemistry/2016/04/01/shoubridge-2016.html", 
+        "length": 723
     }, 
     "2141": {
         "url": "http://www.concordia.ca/artsci/math-stats/news/archive/cunews/main/stories/2014/03/19/part-time-teachingfulltimepassion.html", 
@@ -4620,17 +4860,17 @@
         "url": "http://www.concordia.ca/artsci/biology/faculty.html?fpid=robert-weladji", 
         "length": 913
     }, 
-    "1923": {
-        "url": "http://www.concordia.ca/artsci/biology/faculty.html?fpid=vincent-martin", 
-        "length": 1844
+    "3275": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news.html?content-main_news_grid_list_0_start=18&rootnav=artsci%2Fexercise-science%2Fnews", 
+        "length": 646
     }, 
     "1924": {
         "url": "http://www.concordia.ca/artsci/biology/faculty.html?fpid=catherine-bachewich", 
         "length": 1319
     }, 
-    "1925": {
-        "url": "http://www.concordia.ca/artsci/biology/students/cunews/artsci/biology/2016/4/26/beyond-the-books-event-explores-post-university-careers.html", 
-        "length": 588
+    "3273": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2013/06/19/sweet-dreams-at-concordia.html", 
+        "length": 1071
     }, 
     "1926": {
         "url": "http://www.concordia.ca/artsci/biology/students/cunews/artsci/biology/2016/11/8/biology-student-shares-exchange-experience0.html", 
@@ -4800,9 +5040,9 @@
         "url": "http://www.concordia.ca/artsci/geography-planning-environment/news/archive/cunews/main/stories/2016/01/20/research-findings-can-be-used-to-show-impact-of-c02-on-local-climate-damon-matthews.html", 
         "length": 1120
     }, 
-    "67": {
-        "url": "http://www.concordia.ca/artsci/science-college/news/cunews/main/stories/2016/11/24/faculty-inventions-were-recognized-at-technology-and-innovation-event.html", 
-        "length": 1783
+    "3002": {
+        "url": "http://www.concordia.ca/artsci/geography-planning-environment/news/archive/cunews/main/stories/2015/12/15/damon-matthews-after-paris-climate-change-up-to-all-of-us.html", 
+        "length": 1355
     }, 
     "68": {
         "url": "http://www.concordia.ca/artsci/geography-planning-environment/programs/current-students/pre-registration-guides.html", 
@@ -5076,6 +5316,18 @@
         "url": "http://www.concordia.ca/artsci/psychology/news/archive/cunews/main/stories/2016/10/19/diane-poulin-dubois-wins-the-acfas-prize-for-social-science.html", 
         "length": 1492
     }, 
+    "1981": {
+        "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/vpaer/oce/2016/12/10/2016-07-25_stories-of-the-city-night-.html", 
+        "length": 1020
+    }, 
+    "1577": {
+        "url": "http://www.concordia.ca/artsci/psychology/events.html?category=all", 
+        "length": 4185
+    }, 
+    "1891": {
+        "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/provost/ssc/2017/02/09/documentation-without-plagiarism.html", 
+        "length": 621
+    }, 
     "1576": {
         "url": "http://www.concordia.ca/artsci/psychology/events.html?category=arts-culture", 
         "length": 1862
@@ -5128,6 +5380,10 @@
         "url": "https://www.concordia.ca/artsci/physics/programs/graduate/graduate-seminars/cuevents/offices/provost/library/2016/09/28/libr-101-introduction-to-library-services.html", 
         "length": 638
     }, 
+    "3094": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cuevents/main/2016/12/08/concordia-university-annual-christmas-auction.html", 
+        "length": 715
+    }, 
     "957": {
         "url": "https://www.concordia.ca/artsci/psychology/programs.html", 
         "length": 529
@@ -5147,6 +5403,10 @@
     "4": {
         "url": "http://www.concordia.ca/artsci/math-stats.html", 
         "length": 644
+    }, 
+    "3074": {
+        "url": "http://www.concordia.ca/artsci/geography-planning-environment/about/faculty.html?fpid=kevin-gould", 
+        "length": 1230
     }, 
     "2550": {
         "url": "http://www.concordia.ca/artsci/geography-planning-environment/news/cuevents/offices/provost/library/2016/10/04/understanding-and-increasing-the-visibility-and-impact-of-your-research.html", 
@@ -5244,6 +5504,10 @@
         "url": "https://www.concordia.ca/artsci/science-college/about/life-at-the-college/history.html", 
         "length": 857
     }, 
+    "640": {
+        "url": "https://www.concordia.ca/artsci/math-stats/faculty.html?fpid=robert-mearns", 
+        "length": 496
+    }, 
     "66": {
         "url": "http://www.concordia.ca/artsci/geography-planning-environment/programs/current-students/department-forms.html", 
         "length": 697
@@ -5260,9 +5524,9 @@
         "url": "https://www.concordia.ca/artsci/science-college/faculty.html?fpid=wayne-brake", 
         "length": 2036
     }, 
-    "3002": {
-        "url": "http://www.concordia.ca/artsci/geography-planning-environment/news/archive/cunews/main/stories/2015/12/15/damon-matthews-after-paris-climate-change-up-to-all-of-us.html", 
-        "length": 1355
+    "67": {
+        "url": "http://www.concordia.ca/artsci/science-college/news/cunews/main/stories/2016/11/24/faculty-inventions-were-recognized-at-technology-and-innovation-event.html", 
+        "length": 1783
     }, 
     "2774": {
         "url": "https://www.concordia.ca/artsci/science-college/faculty.html?fpid=calvin-kalman", 
@@ -5280,6 +5544,18 @@
         "url": "https://www.concordia.ca/artsci/science-college/faculty.html?fpid=veronique-pepin", 
         "length": 1021
     }, 
+    "3166": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=alain-leroux", 
+        "length": 804
+    }, 
+    "2803": {
+        "url": "https://www.concordia.ca/artsci/science-college/news/cunews/main/stories/2016/12/02/concordia-receives-funding-for-five-canada-research-chairs.html", 
+        "length": 1077
+    }, 
+    "3164": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2014/01/21/6-ways-to-get-kidsintoscience.html", 
+        "length": 1020
+    }, 
     "1858": {
         "url": "http://www.concordia.ca/artsci/biology/events.html?category=examinations%2Fauditions", 
         "length": 615
@@ -5287,6 +5563,10 @@
     "1859": {
         "url": "http://www.concordia.ca/artsci/biology/events.html?category=examinations%2Fthesis-defenses", 
         "length": 1207
+    }, 
+    "2801": {
+        "url": "https://www.concordia.ca/artsci/science-college/news/cunews/main/stories/2016/11/30/psychology-occasional-negative-moods-can-positively-impact-student-success.html", 
+        "length": 1212
     }, 
     "1850": {
         "url": "http://www.concordia.ca/artsci/biology/events.html?category=information-orientation", 
@@ -5456,6 +5736,14 @@
         "url": "http://www.concordia.ca/artsci/biology/students/cunews/main/stories/2016/11/29/health-benefits-rate-for-cupfa-and-cuceptfu-2016-2017.html", 
         "length": 804
     }, 
+    "3269": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2014/07/22/extra-exercise-helpsdepressedsmokerskickthehabitfaster.html", 
+        "length": 1051
+    }, 
+    "3268": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2014/06/03/concordia-communitymournsthepassingofdavidjones.html", 
+        "length": 867
+    }, 
     "1939": {
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/jmsb/2017/01/31/msc-and-master-of-supply-chain-management-mscm-information-session.html", 
         "length": 668
@@ -5604,9 +5892,9 @@
         "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/offices/provost/ssc/2017/02/08/smart-test-taking-strategies.html", 
         "length": 589
     }, 
-    "3070": {
-        "url": "http://www.concordia.ca/artsci/geography-planning-environment/about/faculty.html?fpid=damon-matthews", 
-        "length": 1230
+    "1595": {
+        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/finearts/fofa/2017/04/10/exhibition-adam-basanta.html", 
+        "length": 1202
     }, 
     "3071": {
         "url": "http://www.concordia.ca/artsci/geography-planning-environment/about/faculty.html?fpid=judith-patterson", 
@@ -5620,13 +5908,13 @@
         "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/finearts/fofa/2017/02/27/exhibition-victor-arroyo.html", 
         "length": 1329
     }, 
-    "3074": {
-        "url": "http://www.concordia.ca/artsci/geography-planning-environment/about/faculty.html?fpid=kevin-gould", 
-        "length": 1230
+    "2958": {
+        "url": "http://www.concordia.ca/artsci/chemistry/news/archive/cunews/main/stories/2016/08/02/7-new-university-research-chairs-represent-concordias-leading-edge.html", 
+        "length": 1055
     }, 
-    "3075": {
-        "url": "http://www.concordia.ca/artsci/geography-planning-environment/about/faculty.html?fpid=pierre-gauthier", 
-        "length": 1230
+    "2959": {
+        "url": "http://www.concordia.ca/artsci/chemistry/news/archive/cunews/main/stories/2016/09/19/women-stem-wiki-edit-a-thon-wikipedia-science-literacy.html", 
+        "length": 1166
     }, 
     "1593": {
         "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/finearts/dance/2017/02/studio-7.html", 
@@ -5656,9 +5944,9 @@
         "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/artsci/polisci/wssr/2017/02/03/boudriaworkshop.html", 
         "length": 821
     }, 
-    "2951": {
-        "url": "http://www.concordia.ca/artsci/chemistry/news/archive/cunews/main/stories/2015/12/02/new-dna-editing-tool-christopher-wilds-on-ethics-of-genetic-engineering.html", 
-        "length": 1107
+    "1030": {
+        "url": "https://www.concordia.ca/artsci/chemistry/news/events/archive/cuevents/artsci/chemistry/2015/01/16/royer-2015.html", 
+        "length": 740
     }, 
     "2952": {
         "url": "http://www.concordia.ca/artsci/chemistry/news/archive/cunews/main/stories/2015/12/10/our-students-success-is-made-possible-by-these-people.html", 
@@ -5688,9 +5976,9 @@
         "url": "https://www.concordia.ca/artsci/physics/programs/undergraduate/physics-bsc.html", 
         "length": 1297
     }, 
-    "1020": {
-        "url": "https://www.concordia.ca/artsci/physics/programs/graduate/current-students.html", 
-        "length": 599
+    "1974": {
+        "url": "http://www.concordia.ca/artsci/biology/events/cuevents/main/2016/12/13/hospitality-concordia-holiday-luncheon-2016.html", 
+        "length": 704
     }, 
     "1023": {
         "url": "https://www.concordia.ca/artsci/physics/faculty.html?fpid=truong-vovan", 
@@ -5776,9 +6064,9 @@
         "url": "https://www.concordia.ca/artsci/psychology/events.html?audience=concordia-community", 
         "length": 1243
     }, 
-    "1200": {
-        "url": "http://www.concordia.ca/artsci/math-stats/programs/co-op.html", 
-        "length": 1465
+    "608": {
+        "url": "https://www.concordia.ca/artsci/psychology/events.html?category=other-events", 
+        "length": 978
     }, 
     "1203": {
         "url": "http://www.concordia.ca/artsci/math-stats/about/math-outreach/math-circle.html", 
@@ -5800,17 +6088,45 @@
         "url": "https://www.concordia.ca/artsci/math-stats/faculty.html?fpid=shaun-white", 
         "length": 498
     }, 
+    "3108": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/students/cunews/artsci/exercise-science/2016/10/28/arts-and-science-scholars-2016.html", 
+        "length": 646
+    }, 
     "1214": {
         "url": "http://www.concordia.ca/artsci/science-college/news/archive/cunews/offices/vpaer/aar/2016/07/12/one-of-canada_s-most-powerful-women.html", 
         "length": 1107
     }, 
-    "79": {
-        "url": "http://www.concordia.ca/artsci/science-college/news/archive/cunews/main/stories/2014/03/19/part-time-teachingfulltimepassion.html", 
-        "length": 1749
+    "3104": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/students/cunews/main/stories/2016/11/29/health-benefits-rate-for-cupfa-and-cuceptfu-2016-2017.html", 
+        "length": 815
+    }, 
+    "3105": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/students/cunews/main/stories/2016/12/01/tuition-fees-are-due-january-1-2017.html", 
+        "length": 695
+    }, 
+    "3106": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/students/cunews/artsci/exercise-science/2015/06/16/amy-barrette.html", 
+        "length": 567
     }, 
     "1215": {
         "url": "http://www.concordia.ca/artsci/math-stats/research/faculty-research-areas.html", 
         "length": 656
+    }, 
+    "3100": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/notices.html", 
+        "length": 572
+    }, 
+    "3101": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/encs/2016/11/18/kon-leong-talk-on-data-in-the-digital-age.html", 
+        "length": 716
+    }, 
+    "3102": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/encs/aerospace/2016/11/21/lucas-hof-selected-as-a-winner-at-the-upcoming-smi-2016-poster-c.html", 
+        "length": 657
+    }, 
+    "3103": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/encs/info-systems-eng/seminars/2016/11/28/sustainable-smart-connected-societies-real-world-testbeds.html", 
+        "length": 968
     }, 
     "1447": {
         "url": "http://www.concordia.ca/artsci/psychology/news/notices/cunews/artsci/psychology/2016/10/25/override-dates-for-current-psychology-students.html", 
@@ -5828,9 +6144,9 @@
         "url": "http://www.concordia.ca/artsci/math-stats/faculty.html?fpid=lisa-kakinami", 
         "length": 529
     }, 
-    "1443": {
-        "url": "http://www.concordia.ca/artsci/psychology/news/notices/cunews/artsci/psychology/2013/04/29/diane-poulin-dubois-inducted.html", 
-        "length": 601
+    "1115": {
+        "url": "https://www.concordia.ca/artsci/chemistry/news/archive/cunews/main/stories/2014/04/30/yves-gelinas-en-entrevueavecledevoir.html", 
+        "length": 584
     }, 
     "1442": {
         "url": "http://www.concordia.ca/artsci/psychology/student-life.html", 
@@ -6196,6 +6512,10 @@
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/artsci/polisci/wssr/2017/02/10/gianniworkshop.html", 
         "length": 896
     }, 
+    "3250": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/notices/cunews/artsci/exercise-science/2013/01/01/simon-bacon.html", 
+        "length": 621
+    }, 
     "2169": {
         "url": "http://www.concordia.ca/artsci/math-stats/services/online-homework-systems.html", 
         "length": 825
@@ -6203,6 +6523,10 @@
     "2168": {
         "url": "http://www.concordia.ca/artsci/math-stats/cuevents/artsci/math-stats/2016/12/04/math-circle.html", 
         "length": 860
+    }, 
+    "3251": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/notices/cunews/artsci/exercise-science/2013/01/01/sleep-study-dormez.html", 
+        "length": 628
     }, 
     "2165": {
         "url": "http://www.concordia.ca/artsci/math-stats/news/notices.html.html", 
@@ -6268,6 +6592,10 @@
         "url": "https://www.concordia.ca/artsci/geography-planning-environment/research/facilities.html", 
         "length": 709
     }, 
+    "3254": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/notices/cunews/artsci/exercise-science/2014/04/02/olivia-koury-3-minute-thesis.html", 
+        "length": 542
+    }, 
     "2619": {
         "url": "https://www.concordia.ca/artsci/geography-planning-environment/about/why-study-with-us.html", 
         "length": 826
@@ -6275,6 +6603,10 @@
     "2618": {
         "url": "https://www.concordia.ca/artsci/geography-planning-environment/programs/undergraduate/urban-studies-planning.html", 
         "length": 982
+    }, 
+    "3256": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/notices/cunews/artsci/exercise-science/2015/06/16/amy-barrette.html", 
+        "length": 569
     }, 
     "1908": {
         "url": "http://www.concordia.ca/artsci/biology/faculty.html?fpid=patrick-gulick", 
@@ -6296,9 +6628,9 @@
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/finearts/dance/2017/04/danse-2017.html", 
         "length": 648
     }, 
-    "1905": {
-        "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/provost/ssc/2017/02/07/exam-strategies-for-business-engineering-and-computer-science-students.html", 
-        "length": 625
+    "1945": {
+        "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/provost/ssc/2017/01/18/strategies-for-learning-in-your-second-language.html", 
+        "length": 608
     }, 
     "1902": {
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/finearts/dance/2017/03/spirale.html", 
@@ -6620,13 +6952,45 @@
         "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/jmsb/2017/02/15/executive-master-of-business-emba-information-session.html", 
         "length": 636
     }, 
-    "1491": {
-        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/jmsb/2017/08/07/faire-le-grand-saut-anglais-des-affaires.html", 
-        "length": 715
+    "3119": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/notices/cunews/artsci/exercise-science/2014/04/02/olivia-koury-3-minute-thesis1.html", 
+        "length": 631
     }, 
-    "2469": {
-        "url": "http://www.concordia.ca/artsci/chemistry/news/notices.html.html", 
-        "length": 502
+    "3118": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/notices/cunews/artsci/exercise-science/2014/04/02/olivia-koury-3-minute-thesis.html", 
+        "length": 542
+    }, 
+    "3117": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/notices/cunews/artsci/exercise-science/2014/03/03/rashami-awasthi.html", 
+        "length": 598
+    }, 
+    "3116": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/notices/cunews/artsci/exercise-science/2013/01/01/arts-science-scholars-1213.html", 
+        "length": 570
+    }, 
+    "3115": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/notices/cunews/artsci/exercise-science/2013/01/01/sleep-study-dormez.html", 
+        "length": 628
+    }, 
+    "3114": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/notices/cunews/artsci/exercise-science/2013/01/01/simon-bacon.html", 
+        "length": 621
+    }, 
+    "3113": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/encs/info-systems-eng/defences/2016/12/06/cluster-analysis-multivariate-data-using-scaled-dirichlet-finite-mixture-model.html", 
+        "length": 827
+    }, 
+    "3112": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/encs/computer-science/2016/11/28/Seminar-by-Dr-Aiko-Yamashita.html", 
+        "length": 689
+    }, 
+    "3111": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/encs/computer-science/2016/11/24/Seminar-by-Dr-Houari-A-Sahraoui.html", 
+        "length": 800
+    }, 
+    "3110": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=simon-bacon", 
+        "length": 787
     }, 
     "1472": {
         "url": "http://www.concordia.ca/artsci/psychology/events.html?category=sports-wellness%2Fintramural-leagues", 
@@ -6716,6 +7080,10 @@
         "url": "https://www.concordia.ca/artsci/math-stats/news/notices/cunews/artsci/math-stats/2015/10/formula-of-unity---mathematical-olympiad.html", 
         "length": 612
     }, 
+    "1499": {
+        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/artsci/polisci/wssr/2017/05/19/robertworkshop.html", 
+        "length": 836
+    }, 
     "494": {
         "url": "https://www.concordia.ca/artsci/math-stats/news/notices/cunews/artsci/math-stats/2014/08/22/l-kakinami-selectednewsmakeroftheweek.html", 
         "length": 554
@@ -6788,9 +7156,29 @@
         "url": "http://www.concordia.ca/artsci/geography-planning-environment/programs/graduate/geography-urban-environmental-msc.html", 
         "length": 1292
     }, 
+    "3262": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2014/02/26/can-a-simple-handshakepredictcancersurvivalrates.html", 
+        "length": 914
+    }, 
+    "3182": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/students.html", 
+        "length": 1213
+    }, 
+    "3224": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=andreas-bergdahl", 
+        "length": 1029
+    }, 
+    "3264": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2014/04/30/-concordia-is-anideafactory.html", 
+        "length": 2852
+    }, 
     "1511": {
         "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/artsci/polisci/wssr/2017/03/03/fraserworkshop.html", 
         "length": 942
+    }, 
+    "3266": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2014/07/22/extra-exercise-helpsdepressedsmokerskickthehabitfaster.html", 
+        "length": 1051
     }, 
     "7": {
         "url": "http://www.concordia.ca/artsci/science-college.html", 
@@ -7264,6 +7652,10 @@
         "url": "https://www.concordia.ca/artsci/science-college/news/public-lecture-series/past-lectures.html", 
         "length": 632
     }, 
+    "3144": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/about/faculty.html?fpid=nancy-st-onge", 
+        "length": 1050
+    }, 
     "2028": {
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/vprgs/sgs/2016/12/05/phd-oral-exam-150-valeriy-troshin-civil-engineering.html", 
         "length": 902
@@ -7319,6 +7711,14 @@
     "888": {
         "url": "https://www.concordia.ca/artsci/biology/faculty.html.html?fpid=ann-english", 
         "length": 632
+    }, 
+    "3148": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/about/faculty.html?fpid=geoff-dover", 
+        "length": 1050
+    }, 
+    "2825": {
+        "url": "https://www.concordia.ca/artsci/science-college/news/archive/cunews/main/stories/2014/11/26/co-op-student-wins-quebecs-top-prize.html", 
+        "length": 1352
     }, 
     "1503": {
         "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/artsci/polisci/wssr/2017/05/10/courtneyworkshop.html", 
@@ -7476,9 +7876,9 @@
         "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/offices/vprgs/sgs/2016/12/05/phd-oral-exam-audrey-mallet.html", 
         "length": 1147
     }, 
-    "1680": {
-        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/jmsb/2016/12/05/mba-information-session.html", 
-        "length": 624
+    "3027": {
+        "url": "http://www.concordia.ca/artsci/geography-planning-environment/news/events/cuevents/artsci/geography/2014/11/28/interdisciplinary-partnerships-conservation-cree-nation-eeyou-istchee.html", 
+        "length": 765
     }, 
     "1683": {
         "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/offices/vprgs/sgs/2016/12/05/phd-oral-exam-150-valeriy-troshin-civil-engineering.html", 
@@ -7548,9 +7948,9 @@
         "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/offices/provost/ssc/2017/03/02/avoiding-plagiarism-at-the-graduate-level.html", 
         "length": 606
     }, 
-    "1267": {
-        "url": "http://www.concordia.ca/artsci/science-college/news/public-lecture-series/past-lectures/science-and-religion.html", 
-        "length": 783
+    "663": {
+        "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/offices/provost/ssc/2017/02/15/taking-multiple-choice-exams.html", 
+        "length": 641
     }, 
     "662": {
         "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/offices/provost/ssc/2017/02/16/punctuation-workshop-commas-commas-commas.html", 
@@ -7560,17 +7960,61 @@
         "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/jmsb/2017/03/03/jmsb-life-undergraduate-guide-to-switching-majors.html", 
         "length": 679
     }, 
-    "1264": {
-        "url": "http://www.concordia.ca/artsci/science-college/news/public-lecture-series/past-lectures/changing-stories-of-our-lives.html", 
-        "length": 906
+    "3022": {
+        "url": "http://www.concordia.ca/artsci/geography-planning-environment/news/archive/cunews/main/stories/2016/12/02/concordia-receives-funding-for-five-canada-research-chairs.html", 
+        "length": 1127
     }, 
     "3021": {
         "url": "http://www.concordia.ca/artsci/geography-planning-environment/news/archive/cunews/main/stories/2016/11/21/opinion-how-does-canadas-climate-policy-rate-damon-matthews.html", 
         "length": 1650
     }, 
+    "3095": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cuevents/artsci/math-stats/2016/12/04/math-circle.html", 
+        "length": 886
+    }, 
     "3020": {
         "url": "http://www.concordia.ca/artsci/geography-planning-environment/news/archive/cunews/main/stories/2016/11/22/incredible-potential-in-partnering-with-the-community-beyond-disciplines.html", 
         "length": 1333
+    }, 
+    "3128": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2016/02/03/athletic-therapy-alum-jean-baptiste-laporte-carolina-panthers-super-bowl.html", 
+        "length": 1577
+    }, 
+    "3129": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2016/03/18/world-sleep-day-cognition-child-development-jennifer-mcgrath-thien-thanh-dang-vu.html", 
+        "length": 1476
+    }, 
+    "3122": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/notices/cunews/artsci/exercise-science/2016/10/28/arts-and-science-scholars-2016.html", 
+        "length": 648
+    }, 
+    "3123": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/notices/cunews/artsci/exercise-science/2016/11/22/our-students.html", 
+        "length": 613
+    }, 
+    "3120": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/notices/cunews/artsci/exercise-science/2015/06/16/amy-barrette.html", 
+        "length": 569
+    }, 
+    "3121": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/notices/cunews/artsci/exercise-science/2015/10/23/2014-2015-arts-and-science-scholars.html", 
+        "length": 578
+    }, 
+    "3126": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2015/10/07/just-30-minutes-a-day-regular-exercise-relieves-asthma-symptoms-bacon-simon.html", 
+        "length": 1220
+    }, 
+    "3127": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2015/12/10/our-students-success-is-made-possible-by-these-people.html", 
+        "length": 1216
+    }, 
+    "3124": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news.html?content-main_news_grid_list_0_start=6&rootnav=artsci%2Fexercise-science%2Fnews", 
+        "length": 681
+    }, 
+    "3125": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/offices/vpaer/aar/2015/05/13/remembering-a-man-born-to-run.html", 
+        "length": 1156
     }, 
     "1469": {
         "url": "http://www.concordia.ca/artsci/psychology/events.html?category=workshops-seminars", 
@@ -7644,6 +8088,10 @@
         "url": "http://www.concordia.ca/artsci/psychology/students/room-bookings/sp-244-09.html", 
         "length": 566
     }, 
+    "3276": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2014/01/21/6-ways-to-get-kidsintoscience.html", 
+        "length": 1020
+    }, 
     "1319": {
         "url": "http://www.concordia.ca/artsci/psychology/news/archive/cunews/main/stories/2015/12/16/2015-long-service-and-retiree-luncheon.html", 
         "length": 1297
@@ -7652,9 +8100,17 @@
         "url": "http://www.concordia.ca/artsci/psychology/students/graduate/cupip.html", 
         "length": 668
     }, 
+    "767": {
+        "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/finearts/dance/2017/03/spirale.html", 
+        "length": 562
+    }, 
     "2060": {
         "url": "http://www.concordia.ca/artsci/biology/news/cunews/main/stories/2016/01/27/biology-professor-jean-philippe-lessard-investigates-sudden-resurgence-of-decades-old-disease.html", 
         "length": 1431
+    }, 
+    "3277": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2013/03/06/a-light-on-leadership.html", 
+        "length": 1055
     }, 
     "1010": {
         "url": "https://www.concordia.ca/artsci/chemistry/news/events/archive/cuevents/artsci/chemistry/2014/10/24/mixing-behaviour-nanoparticles-films.html", 
@@ -7723,6 +8179,10 @@
     "2755": {
         "url": "https://www.concordia.ca/artsci/science-college/program.html", 
         "length": 932
+    }, 
+    "3036": {
+        "url": "http://www.concordia.ca/artsci/geography-planning-environment/news/events/cuevents/main/2015/10/15/nothing-to-lose-but-our-fear-author-fiona-jeffries-in-conversation-with-readers-norma-rantisi-and-carrie-rentschler.html", 
+        "length": 652
     }, 
     "442": {
         "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/jmsb/2017/01/31/msc-and-master-of-supply-chain-management-mscm-information-session.html", 
@@ -7848,13 +8308,13 @@
         "url": "http://www.concordia.ca/artsci/geography-planning-environment/news/cunews/main/stories/2015/11/24/graduate-student-research-aims-to-reduce-greenhouse-gas-emissions-and-assign-responsibility.html", 
         "length": 1326
     }, 
-    "2565": {
-        "url": "http://www.concordia.ca/artsci/geography-planning-environment/news/cunews/main/stories/2016/01/26/zachary-patterson-uses-smart-phone-apps-to-help-solve-public-transport-issues.html", 
-        "length": 1237
+    "632": {
+        "url": "https://www.concordia.ca/artsci/math-stats/faculty.html?fpid=umanath-tiwari", 
+        "length": 496
     }, 
-    "2564": {
-        "url": "http://www.concordia.ca/artsci/geography-planning-environment/news/cunews/main/stories/2016/01/20/research-findings-can-be-used-to-show-impact-of-c02-on-local-climate-damon-matthews.html", 
-        "length": 1096
+    "1615": {
+        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/jmsb/2017/01/18/gdba-gcba-information-session.html", 
+        "length": 630
     }, 
     "2567": {
         "url": "http://www.concordia.ca/artsci/geography-planning-environment/news/cunews/artsci/geography/2016/03/31/register-for-our-new-summer-gis-certification-program-.html", 
@@ -7943,6 +8403,10 @@
     "2580": {
         "url": "http://www.concordia.ca/artsci/geography-planning-environment/about/faculty.html?fpid=angela-kross", 
         "length": 1230
+    }, 
+    "39": {
+        "url": "http://www.concordia.ca/artsci/science-college/news/notices/cunews/artsci/science-college/2015/09/22/coffee-hour-fall-2015.html", 
+        "length": 530
     }, 
     "2589": {
         "url": "http://www.concordia.ca/artsci/chemistry/news/archive/cunews/offices/vpaer/aar/2015/10/08/concordia-mourns-passing-of-robert-marchessault.html", 
@@ -8120,9 +8584,9 @@
         "url": "https://www.concordia.ca/artsci/geography-planning-environment/about/staff.html", 
         "length": 693
     }, 
-    "1537": {
-        "url": "http://www.concordia.ca/artsci/psychology/events.html?category=social-events", 
-        "length": 1031
+    "641": {
+        "url": "https://www.concordia.ca/artsci/math-stats/faculty.html?fpid=leonid-kelner", 
+        "length": 489
     }, 
     "878": {
         "url": "https://www.concordia.ca/artsci/psychology/students/undergraduate/appointments-academic-advisors.html", 
@@ -8176,9 +8640,9 @@
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/finearts/theatre/2016/11/love-and-information.html", 
         "length": 723
     }, 
-    "2742": {
-        "url": "https://www.concordia.ca/artsci/geography-planning-environment/news/events/cuevents/artsci/geography/2014/03/28/goals-priorities-assumptions-transport-planning-examining-environmental-distributional-justice-transport-sector.html", 
-        "length": 708
+    "1534": {
+        "url": "http://www.concordia.ca/artsci/psychology/events.html?category=social-events%2Fvolunteering-opportunities", 
+        "length": 635
     }, 
     "2745": {
         "url": "https://www.concordia.ca/artsci/geography-planning-environment/news/notices/cunews/main/stories/2013/02/18/eighteenth-century-works-available-on-line.html", 
@@ -8268,9 +8732,25 @@
         "url": "https://www.concordia.ca/artsci/math-stats/faculty.html?fpid=nicolas-gandolfo", 
         "length": 492
     }, 
-    "641": {
-        "url": "https://www.concordia.ca/artsci/math-stats/faculty.html?fpid=leonid-kelner", 
-        "length": 489
+    "3236": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/encs/aerospace/2016/11/21/lucas-hof-selected-as-a-winner-at-the-upcoming-smi-2016-poster-c.html", 
+        "length": 657
+    }, 
+    "3237": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/encs/info-systems-eng/seminars/2016/11/28/sustainable-smart-connected-societies-real-world-testbeds.html", 
+        "length": 968
+    }, 
+    "3234": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/notices.html", 
+        "length": 572
+    }, 
+    "3235": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/encs/2016/11/18/kon-leong-talk-on-data-in-the-digital-age.html", 
+        "length": 716
+    }, 
+    "1537": {
+        "url": "http://www.concordia.ca/artsci/psychology/events.html?category=social-events", 
+        "length": 1031
     }, 
     "1964": {
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/finearts/oscar-peterson/2016/12/18/Concert.html", 
@@ -8284,9 +8764,9 @@
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/artsci/philosophy/2016/12/16/PHILDefenceGavin.html", 
         "length": 775
     }, 
-    "1614": {
-        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/offices/provost/ssc/2017/01/19/getting-started-understanding-the-assignment-and-generating-ideas.html", 
-        "length": 643
+    "3238": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/encs/computer-science/2016/11/24/Seminar-by-Dr-Houari-A-Sahraoui.html", 
+        "length": 800
     }, 
     "2965": {
         "url": "http://www.concordia.ca/artsci/chemistry/news/archive/cunews/main/stories/2016/12/02/concordia-receives-funding-for-five-canada-research-chairs.html", 
@@ -8332,17 +8812,17 @@
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/provost/ssc/2017/03/22/planning-designing-and-delivering-oral-presentations.html", 
         "length": 599
     }, 
-    "1783": {
-        "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/provost/ssc/2017/03/08/improving-your-memory-and-concentration.html", 
-        "length": 599
+    "761": {
+        "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/offices/provost/ssc/2017/02/07/reading-your-psychology-and-social-sciences-textbooks.html", 
+        "length": 612
     }, 
     "2969": {
         "url": "http://www.concordia.ca/artsci/geography-planning-environment/student-life.html", 
         "length": 627
     }, 
-    "1785": {
-        "url": "http://www.concordia.ca/artsci/biology/events/cuevents/jmsb/2017/03/03/jmsb-life-undergraduate-guide-to-switching-majors.html", 
-        "length": 678
+    "2968": {
+        "url": "http://www.concordia.ca/artsci/geography-planning-environment/student-life/groups.html", 
+        "length": 533
     }, 
     "764": {
         "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/finearts/dance/2017/03/studio-7.html", 
@@ -8408,9 +8888,9 @@
         "url": "https://www.concordia.ca/artsci/chemistry/news/events/archive/cuevents/artsci/chemistry/2016/04/22/britz-mckibbin-2016.html", 
         "length": 841
     }, 
-    "1535": {
-        "url": "http://www.concordia.ca/artsci/psychology/events.html?category=social-events%2Fmeetings", 
-        "length": 632
+    "1077": {
+        "url": "https://www.concordia.ca/artsci/chemistry/news/events/archive/cuevents/artsci/chemistry/2016/05/16/bernal-2016.html", 
+        "length": 599
     }, 
     "1074": {
         "url": "https://www.concordia.ca/artsci/chemistry/news/events/archive/cuevents/artsci/chemistry/2016/04/06/pomes-2016.html", 
@@ -8540,6 +9020,46 @@
         "url": "https://www.concordia.ca/artsci/psychology/events.html?category=sports-wellness%2Fbites", 
         "length": 635
     }, 
+    "3135": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/research.html", 
+        "length": 633
+    }, 
+    "3134": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/research/projects.html", 
+        "length": 1572
+    }, 
+    "3137": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/programs/bsc-exercise-science-clinical-physiology.html", 
+        "length": 1127
+    }, 
+    "3136": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/programs/msc-exercise-science.html", 
+        "length": 1985
+    }, 
+    "3131": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/research/perform-centre.html", 
+        "length": 666
+    }, 
+    "3130": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2016/05/06/how-to-find-the-right-online-health-advice-joe-schwarcz-simon-bacon-exercise-science.html", 
+        "length": 1747
+    }, 
+    "3133": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/research/publications.html", 
+        "length": 516
+    }, 
+    "3132": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/research/theses.html", 
+        "length": 516
+    }, 
+    "3139": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/programs/bsc-exercise-science.html", 
+        "length": 1324
+    }, 
+    "3138": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/programs/bsc-exercise-science-athletic-therapy.html", 
+        "length": 1099
+    }, 
     "1997": {
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/vpaer/aar/2016/12/08/library-christmas-auction.html", 
         "length": 852
@@ -8627,6 +9147,10 @@
     "1329": {
         "url": "http://www.concordia.ca/artsci/psychology/faculty.html?fpid=roisin-oconnor", 
         "length": 998
+    }, 
+    "1621": {
+        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/artsci/polisci/wssr/2017/wssr2017.html", 
+        "length": 777
     }, 
     "656": {
         "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/offices/provost/ssc/2017/03/15/critical-thinking-and-creative-problem-solving.html", 
@@ -8732,6 +9256,10 @@
         "url": "https://www.concordia.ca/artsci/geography-planning-environment/news/archive/cunews/main/stories/2015/10/07/why-canada-needs-to-transition-to-a-low-carbon-economy-and-how.html", 
         "length": 1251
     }, 
+    "1626": {
+        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/offices/provost/faao/2016/12/20/budgeting-to-your-values.html", 
+        "length": 604
+    }, 
     "2978": {
         "url": "http://www.concordia.ca/artsci/geography-planning-environment/news/events/cuevents/artsci/geography/2014/01/31/bending-body-for-china-acrobatics-sino-us-diplomacy-cold-war.html", 
         "length": 739
@@ -8768,9 +9296,17 @@
         "url": "http://www.concordia.ca/artsci/geography-planning-environment/research/research-interests.html", 
         "length": 1104
     }, 
+    "3204": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/about/faculty.html?fpid=geoff-dover", 
+        "length": 1050
+    }, 
     "3055": {
         "url": "http://www.concordia.ca/artsci/geography-planning-environment/research.html", 
         "length": 654
+    }, 
+    "472": {
+        "url": "https://www.concordia.ca/artsci/math-stats/news/cunews/artsci/math-stats/2016/06/28/jose-garrido-cia-merit.html", 
+        "length": 560
     }, 
     "3052": {
         "url": "http://www.concordia.ca/artsci/geography-planning-environment/research/facilities.html", 
@@ -8791,6 +9327,10 @@
     "78": {
         "url": "http://www.concordia.ca/artsci/science-college/news/archive/cunews/main/stories/2013/08/28/children-grasp-mathmoreeasilywithrealworldexamples.html", 
         "length": 1044
+    }, 
+    "980": {
+        "url": "https://www.concordia.ca/artsci/psychology/faculty.html?fpid=jane-stewart", 
+        "length": 1772
     }, 
     "1446": {
         "url": "http://www.concordia.ca/artsci/psychology/news/notices/cunews/artsci/psychology/2016/07/26/override-dates-for-current-psychology-students.html", 
@@ -8888,9 +9428,9 @@
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/provost/ssc/2017/02/08/smart-test-taking-strategies.html", 
         "length": 588
     }, 
-    "1891": {
-        "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/provost/ssc/2017/02/09/documentation-without-plagiarism.html", 
-        "length": 621
+    "476": {
+        "url": "https://www.concordia.ca/artsci/math-stats/news/notices/cunews/artsci/math-stats/2012/09/01/undergrad-actuarial-programs-concordia-accredited.html", 
+        "length": 624
     }, 
     "1892": {
         "url": "http://www.concordia.ca/artsci/biology/events.html?campus=sgw", 
@@ -8976,6 +9516,10 @@
         "url": "http://www.concordia.ca/artsci/geography-planning-environment/news/archive/cunews/main/stories/2015/10/15/climate-change-leap-manifesto-damon-matthews.html", 
         "length": 1275
     }, 
+    "2784": {
+        "url": "https://www.concordia.ca/artsci/science-college/faculty.html?fpid=dmitry-korotkin", 
+        "length": 509
+    }, 
     "2640": {
         "url": "https://www.concordia.ca/artsci/geography-planning-environment/about/faculty.html?fpid=patricia-thornton", 
         "length": 1230
@@ -9055,6 +9599,10 @@
     "506": {
         "url": "https://www.concordia.ca/artsci/math-stats/news/cunews/artsci/canadian-irish-studies/2016/11/24/phd-student-kelly-norah-drukker-wins-two-literary-awards.html", 
         "length": 582
+    }, 
+    "1790": {
+        "url": "http://www.concordia.ca/artsci/biology/events/cuevents/jmsb/2017/03/17/jmsb-life-meet-and-greet.html", 
+        "length": 677
     }, 
     "1544": {
         "url": "http://www.concordia.ca/artsci/psychology/events.html?category=examinations%2Fthesis-defenses", 
@@ -9136,17 +9684,17 @@
         "url": "https://www.concordia.ca/artsci/geography-planning-environment/news/cunews/offices/vpaer/aar/2016/04/19/tick-tock-mind-the-climate-clock.html", 
         "length": 824
     }, 
-    "663": {
-        "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/offices/provost/ssc/2017/02/15/taking-multiple-choice-exams.html", 
-        "length": 641
+    "1267": {
+        "url": "http://www.concordia.ca/artsci/science-college/news/public-lecture-series/past-lectures/science-and-religion.html", 
+        "length": 783
     }, 
     "715": {
         "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/artsci/polisci/wssr/2017/05/08/cappeworkshop.html", 
         "length": 757
     }, 
-    "1790": {
-        "url": "http://www.concordia.ca/artsci/biology/events/cuevents/jmsb/2017/03/17/jmsb-life-meet-and-greet.html", 
-        "length": 677
+    "714": {
+        "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/artsci/polisci/wssr/2017/05/19/robertworkshop.html", 
+        "length": 836
     }, 
     "713": {
         "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/artsci/polisci/wssr/2017/05/23/bercusonworkshop.html", 
@@ -9316,33 +9864,45 @@
         "url": "https://www.concordia.ca/artsci/chemistry/news/events/archive/cuevents/offices/provost/library/2016/10/04/understanding-and-increasing-the-visibility-and-impact-of-your-research.html", 
         "length": 635
     }, 
-    "3022": {
-        "url": "http://www.concordia.ca/artsci/geography-planning-environment/news/archive/cunews/main/stories/2016/12/02/concordia-receives-funding-for-five-canada-research-chairs.html", 
-        "length": 1127
+    "3140": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/programs.html", 
+        "length": 975
     }, 
-    "714": {
-        "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/artsci/polisci/wssr/2017/05/19/robertworkshop.html", 
-        "length": 836
+    "3141": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/about/jobs.html", 
+        "length": 625
+    }, 
+    "3142": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/about/staff.html", 
+        "length": 559
+    }, 
+    "3143": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/about/faculty.html", 
+        "length": 1050
     }, 
     "2828": {
         "url": "https://www.concordia.ca/artsci/science-college/news/archive/cunews/artsci/math-stats/2016/01/28/in-memory-of-syed-twareque-ali.html", 
         "length": 3609
     }, 
-    "2829": {
-        "url": "https://www.concordia.ca/artsci/science-college/news/archive/cunews/main/stories/2016/02/05/ceo-for-a-day-jason-azzoparde-andre-bourbonnais-psp-investments.html", 
-        "length": 1293
+    "3145": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/about/faculty.html?fpid=sylvia-santosa", 
+        "length": 1050
     }, 
-    "1526": {
-        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/jmsb/2017/03/03/jmsb-life-undergraduate-guide-to-switching-majors.html", 
-        "length": 679
+    "3146": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/about/faculty.html?fpid=veronique-pepin", 
+        "length": 1050
+    }, 
+    "3147": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/about/faculty.html?fpid=robert-kilgour", 
+        "length": 1050
     }, 
     "2824": {
         "url": "https://www.concordia.ca/artsci/science-college/news/archive/cunews/main/stories/2015/11/10/childhood-obesity-is-linked-to-poverty-and-parenting-style.html", 
         "length": 1121
     }, 
-    "2825": {
-        "url": "https://www.concordia.ca/artsci/science-college/news/archive/cunews/main/stories/2014/11/26/co-op-student-wins-quebecs-top-prize.html", 
-        "length": 1352
+    "3149": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/about/faculty.html?fpid=peter-darlington", 
+        "length": 1050
     }, 
     "2826": {
         "url": "https://www.concordia.ca/artsci/science-college/news/archive/cunews/main/stories/2014/04/30/-you-teach-becauseitsacalling.html", 
@@ -9428,6 +9988,10 @@
         "url": "http://www.concordia.ca/artsci/psychology/news/archive/cunews/main/stories/2016/03/15/mihaela-iordanova-one-of-four-new-canada-research-chairs-psychology.html", 
         "length": 1172
     }, 
+    "1491": {
+        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/jmsb/2017/08/07/faire-le-grand-saut-anglais-des-affaires.html", 
+        "length": 715
+    }, 
     "1547": {
         "url": "http://www.concordia.ca/artsci/psychology/events.html?category=conferences-lectures", 
         "length": 2585
@@ -9476,9 +10040,13 @@
         "url": "http://www.concordia.ca/artsci/psychology/events.html?category=fundraisers", 
         "length": 721
     }, 
-    "39": {
-        "url": "http://www.concordia.ca/artsci/science-college/news/notices/cunews/artsci/science-college/2015/09/22/coffee-hour-fall-2015.html", 
-        "length": 530
+    "3261": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2014/01/29/from-paris-to-concordiaandthenfl.html", 
+        "length": 1829
+    }, 
+    "3201": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/about/faculty.html?fpid=nancy-st-onge", 
+        "length": 1050
     }, 
     "38": {
         "url": "http://www.concordia.ca/artsci/science-college/news/notices/cunews/artsci/science-college/2014/09/23/science-college-35th-anniversary.html", 
@@ -9487,6 +10055,10 @@
     "1540": {
         "url": "http://www.concordia.ca/artsci/psychology/events.html?category=information-orientation%2Fstudy-abroad", 
         "length": 635
+    }, 
+    "3260": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news.html?content-main_news_grid_list_0_start=12&rootnav=artsci%2Fexercise-science%2Fnews", 
+        "length": 669
     }, 
     "33": {
         "url": "http://www.concordia.ca/artsci/geography-planning-environment/programs/undergraduate/human-environment-ba.html", 
@@ -9532,9 +10104,9 @@
         "url": "https://www.concordia.ca/artsci/math-stats/faculty.html?fpid=uchenna-mgbemena", 
         "length": 496
     }, 
-    "1534": {
-        "url": "http://www.concordia.ca/artsci/psychology/events.html?category=social-events%2Fvolunteering-opportunities", 
-        "length": 635
+    "3091": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/contact.html", 
+        "length": 591
     }, 
     "1245": {
         "url": "http://www.concordia.ca/artsci/science-college/faculty.html?fpid=laszlo-kalman", 
@@ -9556,9 +10128,17 @@
         "url": "http://www.concordia.ca/artsci/science-college/faculty.html?fpid=robert-kilgour", 
         "length": 998
     }, 
-    "1248": {
-        "url": "http://www.concordia.ca/artsci/science-college/faculty.html?fpid=veronique-pepin", 
-        "length": 1021
+    "3265": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2014/06/03/concordia-communitymournsthepassingofdavidjones.html", 
+        "length": 867
+    }, 
+    "3098": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/artsci/exercise-science/2016/10/28/arts-and-science-scholars-2016.html", 
+        "length": 646
+    }, 
+    "3099": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/artsci/exercise-science/2016/11/22/our-students.html", 
+        "length": 611
     }, 
     "1539": {
         "url": "http://www.concordia.ca/artsci/psychology/events.html?category=information-orientation%2Ftours", 
@@ -9572,9 +10152,9 @@
         "url": "https://www.concordia.ca/artsci/biology/news/cunews/main/stories/2013/08/15/fighting-crime-atquebecsforemostforensicslab.html", 
         "length": 1147
     }, 
-    "338": {
-        "url": "https://www.concordia.ca/artsci/biology/news/cunews/main/stories/2013/04/30/a-fingernail-sized-laboratory-to-study-sperm-release.html", 
-        "length": 1021
+    "3267": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2014/04/30/-concordia-is-anideafactory.html", 
+        "length": 2852
     }, 
     "335": {
         "url": "https://www.concordia.ca/artsci/biology/faculty.html.html?fpid=david-walsh", 
@@ -9628,6 +10208,10 @@
         "url": "https://www.concordia.ca/artsci/chemistry/about.html", 
         "length": 658
     }, 
+    "3195": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/about.html", 
+        "length": 779
+    }, 
     "1085": {
         "url": "https://www.concordia.ca/artsci/chemistry/news/events/archive/cuevents/offices/vprgs/sgs/2016/06/23/phd-oral-exam-150-shaghayegh-ostadjoo-biology.html", 
         "length": 965
@@ -9652,6 +10236,10 @@
         "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/main/2016/12/13/hospitality-concordia-holiday-luncheon-2016.html", 
         "length": 705
     }, 
+    "3200": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/faculty.html?robert-panenic=", 
+        "length": 512
+    }, 
     "1352": {
         "url": "http://www.concordia.ca/artsci/psychology/news/archive/cunews/main/stories/2016/10/03/3d-soundscapes-and-brain-imaging-return-of-beyond-disciplines.html", 
         "length": 1389
@@ -9659,6 +10247,10 @@
     "2854": {
         "url": "https://www.concordia.ca/artsci/science-college/news/public-lecture-series/past-lectures/science-and-religion.html", 
         "length": 783
+    }, 
+    "653": {
+        "url": "https://www.concordia.ca/artsci/math-stats/faculty.html?fpid=victor-kalvin", 
+        "length": 605
     }, 
     "1454": {
         "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/artsci/math-stats/2016/12/18/math-circle.html", 
@@ -9703,6 +10295,10 @@
     "2348": {
         "url": "http://www.concordia.ca/artsci/chemistry/news/events/archive/cuevents/artsci/chemistry/2015/01/16/royer-2015.html", 
         "length": 740
+    }, 
+    "2469": {
+        "url": "http://www.concordia.ca/artsci/chemistry/news/notices.html.html", 
+        "length": 502
     }, 
     "1455": {
         "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/finearts/oscar-peterson/2016/12/16/a-concert-for-syria.html", 
@@ -9916,6 +10512,10 @@
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/vprgs/sgs/2016/12/05/phd-oral-exam-150-elie-otayek-building-engineering.html", 
         "length": 1181
     }, 
+    "2920": {
+        "url": "https://www.concordia.ca/artsci/geography-planning-environment/news/cunews/main/stories/2016/04/27/calling-all-mapmakers-concordia-is-now-offering-a-five-day-course-in-gis.html", 
+        "length": 1224
+    }, 
     "2015": {
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/vpaer/aar/2016/12/06/new-york-alumni-holiday-cocktail.html", 
         "length": 635
@@ -9947,6 +10547,10 @@
     "2012": {
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/provost/library/2016/12/07/pet-therapy.html", 
         "length": 590
+    }, 
+    "2926": {
+        "url": "https://www.concordia.ca/artsci/geography-planning-environment/news/cunews/main/stories/2016/08/09/concordia-teams-up-with-united-nations-to-offer-first-ever-massive-open-online-course.html", 
+        "length": 1558
     }, 
     "1793": {
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/jmsb/2017/03/24/jmsb-life-cabane-a-sucre.html", 
@@ -10016,9 +10620,9 @@
         "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/jmsb/2017/03/14/mba-information-session.html", 
         "length": 624
     }, 
-    "707": {
-        "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/jmsb/2017/03/09/mba-with-complete-cfa-reg-integration-information-session-toronto.html", 
-        "length": 635
+    "2908": {
+        "url": "https://www.concordia.ca/artsci/geography-planning-environment/news/events/cuevents/offices/provost/library/2016/09/21/libr-101-introduction-to-library-services.html", 
+        "length": 609
     }, 
     "700": {
         "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/jmsb/2017/04/19/executive-master-of-business-emba-information-session.html", 
@@ -10076,9 +10680,9 @@
         "url": "http://www.concordia.ca/artsci/biology/faculty.html.html?fpid=david-walsh", 
         "length": 1176
     }, 
-    "3036": {
-        "url": "http://www.concordia.ca/artsci/geography-planning-environment/news/events/cuevents/main/2015/10/15/nothing-to-lose-but-our-fear-author-fiona-jeffries-in-conversation-with-readers-norma-rantisi-and-carrie-rentschler.html", 
-        "length": 652
+    "1256": {
+        "url": "http://www.concordia.ca/artsci/science-college/news/public-lecture-series/past-lectures/hiding-in-mirror.html", 
+        "length": 803
     }, 
     "762": {
         "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/offices/provost/ssc/2017/02/09/documentation-without-plagiarism.html", 
@@ -10156,9 +10760,9 @@
         "url": "https://www.concordia.ca/artsci/math-stats/programs/co-op.html", 
         "length": 1465
     }, 
-    "581": {
-        "url": "https://www.concordia.ca/artsci/math-stats/news/archive/cunews/main/stories/2016/10/06/arts-science-scholars-151-leaders-of-tomorrow.html", 
-        "length": 1504
+    "1631": {
+        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/finearts/music/2016/12/15.html", 
+        "length": 558
     }, 
     "1632": {
         "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/artsci/philosophy/2016/12/15/PHILDefenceRamusovic.html", 
@@ -10172,13 +10776,33 @@
         "url": "https://www.concordia.ca/artsci/math-stats/programs/undergraduate.html", 
         "length": 638
     }, 
-    "1985": {
-        "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/provost/iso/2016/12/09/iso-social-exams-coffee-break-at-iso.html", 
-        "length": 649
+    "3153": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=nancy-stonge", 
+        "length": 798
     }, 
-    "2839": {
-        "url": "https://www.concordia.ca/artsci/science-college/news/archive/cunews/offices/vpaer/aar/2016/07/12/one-of-canada_s-most-powerful-women.html", 
-        "length": 1107
+    "3152": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2014/01/29/from-paris-to-concordiaandthenfl.html", 
+        "length": 1829
+    }, 
+    "3151": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news.html?content-main_news_grid_list_0_start=12&rootnav=artsci%2Fexercise-science%2Fnews", 
+        "length": 669
+    }, 
+    "1633": {
+        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/finearts/music/2016/12/14.html", 
+        "length": 554
+    }, 
+    "3157": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2013/06/19/sweet-dreams-at-concordia.html", 
+        "length": 1071
+    }, 
+    "3156": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=david-paris", 
+        "length": 673
+    }, 
+    "3155": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=veronique-pepin", 
+        "length": 1060
     }, 
     "2838": {
         "url": "https://www.concordia.ca/artsci/science-college/news/archive/cunews/main/stories/2016/05/25/1800-avid-experiential-learners-co-op-awards.html", 
@@ -10192,9 +10816,9 @@
         "url": "https://www.concordia.ca/artsci/science-college/news/archive/cunews/main/stories/2016/04/13/april-accolades-new-books-awards-a-grant-and-a-distinguished-professorship.html", 
         "length": 1103
     }, 
-    "2835": {
-        "url": "https://www.concordia.ca/artsci/science-college/news/archive/cunews/main/stories/2016/04/07/concordias-actuarial-mathletes-take-home-the-2016-munich-re-cup-mathematics-statistics.html", 
-        "length": 1314
+    "3159": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2013/03/12/the-heart-brain-connection.html", 
+        "length": 1079
     }, 
     "2834": {
         "url": "https://www.concordia.ca/artsci/science-college/news/archive/cunews/main/stories/2016/04/06/new-co-op-programs-biology-and-math-stats.html", 
@@ -10212,9 +10836,9 @@
         "url": "https://www.concordia.ca/artsci/science-college/news/archive/cunews/main/stories/2016/03/18/canadian-math-kangaroo-contest-for-children-department-mathematics-statistics.html", 
         "length": 1020
     }, 
-    "2830": {
-        "url": "https://www.concordia.ca/artsci/science-college/news/archive/cunews/main/stories/2016/02/10/concordia-hosts-four-extracurricular-math-programs-for-children-mathematics-statistics.html", 
-        "length": 1403
+    "1635": {
+        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/offices/vprgs/sgs/2016/12/13/phd-oral-exam-150-tony-bongiorno-business-administration-management.html", 
+        "length": 998
     }, 
     "1436": {
         "url": "http://www.concordia.ca/artsci/psychology/cuevents/artsci/math-stats/2016/12/09/msc-thesis-defence-in-mathematics.html", 
@@ -10252,9 +10876,9 @@
         "url": "http://www.concordia.ca/artsci/science-college/faculty.html?fpid=guillaume-lamoureux", 
         "length": 556
     }, 
-    "1981": {
-        "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/vpaer/oce/2016/12/10/2016-07-25_stories-of-the-city-night-.html", 
-        "length": 1020
+    "1637": {
+        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/main/2016/12/13/eap-lunchtime-seminar-successful-transition-to-retirement-financial-planning.html", 
+        "length": 670
     }, 
     "1438": {
         "url": "http://www.concordia.ca/artsci/psychology/events.html", 
@@ -10268,7 +10892,7 @@
         "url": "http://www.concordia.ca/artsci/science-college/news/public-lecture-series/past-lectures/regenerative-medicine-fantasy-or-reality.html", 
         "length": 886
     }, 
-    "length": 3190643, 
+    "length": 3380103, 
     "1349": {
         "url": "http://www.concordia.ca/artsci/psychology/news/archive/cunews/main/stories/2016/06/01/centre-for-arts-in-human-development-cahd-celebrates-two-decades-creative-arts-therapies.html", 
         "length": 1453
@@ -10333,6 +10957,14 @@
         "url": "https://www.concordia.ca/artsci/math-stats/services/advising.html", 
         "length": 3544
     }, 
+    "3263": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2014/04/09/women-in-research.html", 
+        "length": 2162
+    }, 
+    "79": {
+        "url": "http://www.concordia.ca/artsci/science-college/news/archive/cunews/main/stories/2014/03/19/part-time-teachingfulltimepassion.html", 
+        "length": 1749
+    }, 
     "1266": {
         "url": "http://www.concordia.ca/artsci/science-college/news/public-lecture-series/past-lectures/core-social-cognition.html", 
         "length": 768
@@ -10353,13 +10985,13 @@
         "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/artsci/polisci/wssr/2017/05/15/petersworkshop.html", 
         "length": 714
     }, 
-    "1506": {
-        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/artsci/polisci/wssr/2017/03/31/parekhworkshop.html", 
-        "length": 877
+    "652": {
+        "url": "https://www.concordia.ca/artsci/math-stats/faculty.html?fpid=jeremy-macdonald", 
+        "length": 516
     }, 
-    "653": {
-        "url": "https://www.concordia.ca/artsci/math-stats/faculty.html?fpid=victor-kalvin", 
-        "length": 605
+    "1507": {
+        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/artsci/polisci/wssr/2017/03/30/parekhtalk.html", 
+        "length": 848
     }, 
     "1504": {
         "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/artsci/polisci/wssr/2017/05/08/cappeworkshop.html", 
@@ -10369,21 +11001,29 @@
         "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/artsci/polisci/wssr/2017/04/07/pageworkshop.html", 
         "length": 896
     }, 
-    "1508": {
-        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/artsci/polisci/wssr/2017/03/24/lenardworkshop.html", 
-        "length": 883
+    "3085": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/cunews/artsci/exercise-science/2016/10/28/arts-and-science-scholars-2016.html", 
+        "length": 644
+    }, 
+    "3084": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/cunews/main/stories/2016/02/03/athletic-therapy-alum-jean-baptiste-laporte-carolina-panthers-super-bowl.html", 
+        "length": 1575
+    }, 
+    "3087": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/cunews/main/stories/2016/05/06/how-to-find-the-right-online-health-advice-joe-schwarcz-simon-bacon-exercise-science.html", 
+        "length": 1745
     }, 
     "1509": {
         "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/artsci/polisci/wssr/2017/03/24/clarkeworkshop.html", 
         "length": 839
     }, 
-    "767": {
-        "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/finearts/dance/2017/03/spirale.html", 
-        "length": 562
+    "3081": {
+        "url": "http://www.concordia.ca/artsci/exercise-science.html", 
+        "length": 594
     }, 
-    "658": {
-        "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/offices/provost/ssc/2017/03/22/planning-designing-and-delivering-oral-presentations.html", 
-        "length": 600
+    "3083": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news.html", 
+        "length": 690
     }, 
     "516": {
         "url": "https://www.concordia.ca/artsci/math-stats/news/cunews/main/stories/2016/10/06/arts-science-scholars-151-leaders-of-tomorrow.html", 
@@ -10396,6 +11036,14 @@
     "2127": {
         "url": "http://www.concordia.ca/artsci/biology/faculty.html.html?fpid=peter-darlington", 
         "length": 1223
+    }, 
+    "1598": {
+        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/finearts/fofa/2017/02/27/exhibition-surabhi-ghosh.html", 
+        "length": 1375
+    }, 
+    "1264": {
+        "url": "http://www.concordia.ca/artsci/science-college/news/public-lecture-series/past-lectures/changing-stories-of-our-lives.html", 
+        "length": 906
     }, 
     "2126": {
         "url": "http://www.concordia.ca/artsci/biology/faculty.html.html?fpid=ann-english", 
@@ -10489,9 +11137,9 @@
         "url": "http://www.concordia.ca/artsci/physics/about/physique-concordia.html", 
         "length": 1018
     }, 
-    "1595": {
-        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/finearts/fofa/2017/04/10/exhibition-adam-basanta.html", 
-        "length": 1202
+    "3070": {
+        "url": "http://www.concordia.ca/artsci/geography-planning-environment/about/faculty.html?fpid=damon-matthews", 
+        "length": 1230
     }, 
     "2332": {
         "url": "http://www.concordia.ca/artsci/chemistry/news/events/archive.html", 
@@ -10545,9 +11193,9 @@
         "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/finearts/dance/2017/03/spirale.html", 
         "length": 562
     }, 
-    "2959": {
-        "url": "http://www.concordia.ca/artsci/chemistry/news/archive/cunews/main/stories/2016/09/19/women-stem-wiki-edit-a-thon-wikipedia-science-literacy.html", 
-        "length": 1166
+    "3075": {
+        "url": "http://www.concordia.ca/artsci/geography-planning-environment/about/faculty.html?fpid=pierre-gauthier", 
+        "length": 1230
     }, 
     "3076": {
         "url": "http://www.concordia.ca/artsci/geography-planning-environment/about/faculty.html?fpid=silvano-delallata", 
@@ -10601,13 +11249,13 @@
         "url": "http://www.concordia.ca/artsci/chemistry/programs.html", 
         "length": 545
     }, 
-    "1598": {
-        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/finearts/fofa/2017/02/27/exhibition-surabhi-ghosh.html", 
-        "length": 1375
+    "2951": {
+        "url": "http://www.concordia.ca/artsci/chemistry/news/archive/cunews/main/stories/2015/12/02/new-dna-editing-tool-christopher-wilds-on-ethics-of-genetic-engineering.html", 
+        "length": 1107
     }, 
-    "1518": {
-        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/offices/vprgs/gradproskills/2017/02/10/career-professionalism.html", 
-        "length": 661
+    "3252": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/notices/cunews/artsci/exercise-science/2013/01/01/arts-science-scholars-1213.html", 
+        "length": 570
     }, 
     "2248": {
         "url": "http://www.concordia.ca/artsci/physics/news/cunews/artsci/physics/2016/06/23/job-posting--tenure-track-appointment-in-opto-electronic-and-pho.html", 
@@ -10697,9 +11345,9 @@
         "url": "https://www.concordia.ca/artsci/chemistry/programs/graduate/courses-scheduled.html", 
         "length": 1100
     }, 
-    "121": {
-        "url": "https://www.concordia.ca/artsci/chemistry/cbgrc/registration/form.html", 
-        "length": 387
+    "3253": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/notices/cunews/artsci/exercise-science/2014/03/03/rashami-awasthi.html", 
+        "length": 598
     }, 
     "122": {
         "url": "https://www.concordia.ca/artsci/chemistry/programs/graduate/msc-chemistry.html", 
@@ -10736,6 +11384,10 @@
     "2654": {
         "url": "https://www.concordia.ca/artsci/geography-planning-environment/faculty.html?fpid=donny-seto", 
         "length": 500
+    }, 
+    "1020": {
+        "url": "https://www.concordia.ca/artsci/physics/programs/graduate/current-students.html", 
+        "length": 599
     }, 
     "520": {
         "url": "https://www.concordia.ca/artsci/math-stats/programs/awards-scholarships.html", 
@@ -10796,6 +11448,10 @@
     "1849": {
         "url": "http://www.concordia.ca/artsci/biology/events.html?category=religious-spiritual", 
         "length": 618
+    }, 
+    "3255": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/notices/cunews/artsci/exercise-science/2014/04/02/olivia-koury-3-minute-thesis1.html", 
+        "length": 631
     }, 
     "2666": {
         "url": "https://www.concordia.ca/artsci/geography-planning-environment/faculty.html?fpid=judith-patterson", 
@@ -10929,9 +11585,13 @@
         "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/artsci/polisci/wssr/2017/03/17/gomeryworkshop.html", 
         "length": 932
     }, 
-    "1743": {
-        "url": "http://www.concordia.ca/artsci/biology/news/cunews/main/stories/2016/11/09/the-double-wonder-of-worms-research-vermicompost.html", 
-        "length": 1452
+    "1526": {
+        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/jmsb/2017/03/03/jmsb-life-undergraduate-guide-to-switching-majors.html", 
+        "length": 679
+    }, 
+    "729": {
+        "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/artsci/polisci/wssr/2017/03/10/alvaroworkshop.html", 
+        "length": 889
     }, 
     "1252": {
         "url": "http://www.concordia.ca/artsci/science-college/news/public-lecture-series/past-lectures/periodic-table-story-significance.html", 
@@ -10989,37 +11649,45 @@
         "url": "https://www.concordia.ca/artsci/science-college/news/notices/cunews/artsci/science-college/2014/09/23/science-college-35th-anniversary.html", 
         "length": 537
     }, 
+    "3168": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=geoff-dover", 
+        "length": 867
+    }, 
+    "3169": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=richard-demont", 
+        "length": 1017
+    }, 
     "2802": {
         "url": "https://www.concordia.ca/artsci/science-college/news/cunews/main/stories/2016/12/01/the-fight-against-fake-news-journalism-students-faculty.html", 
         "length": 1246
     }, 
-    "2803": {
-        "url": "https://www.concordia.ca/artsci/science-college/news/cunews/main/stories/2016/12/02/concordia-receives-funding-for-five-canada-research-chairs.html", 
-        "length": 1077
+    "3167": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=robert-kilgour", 
+        "length": 1037
     }, 
     "2800": {
         "url": "https://www.concordia.ca/artsci/science-college/news/cunews/main/stories/2016/07/19/how-to-wrap-your-head-around-university-jargon.html", 
         "length": 1680
     }, 
-    "2801": {
-        "url": "https://www.concordia.ca/artsci/science-college/news/cunews/main/stories/2016/11/30/psychology-occasional-negative-moods-can-positively-impact-student-success.html", 
-        "length": 1212
+    "3165": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=robert-panenic", 
+        "length": 868
     }, 
     "2806": {
         "url": "https://www.concordia.ca/artsci/science-college/news/public-lecture-series/past-lectures/cosmic-gift-of-neutron-stars.html", 
         "length": 663
     }, 
-    "2807": {
-        "url": "https://www.concordia.ca/artsci/science-college/news/public-lecture-series/past-lectures/periodic-table-story-significance.html", 
-        "length": 835
+    "3163": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2013/11/05/arts-and-sciencefacultyhonoured.html", 
+        "length": 718
     }, 
     "2804": {
         "url": "https://www.concordia.ca/artsci/science-college/news/archive.html", 
         "length": 693
     }, 
-    "2805": {
-        "url": "https://www.concordia.ca/artsci/science-college/news/public-lecture-series/past-lectures/brain-and-memory.html", 
-        "length": 756
+    "3161": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=simon-bacon", 
+        "length": 787
     }, 
     "1421": {
         "url": "http://www.concordia.ca/artsci/math-stats/faculty.html?fpid=pawel-gora", 
@@ -11065,8 +11733,8 @@
         "url": "https://www.concordia.ca/artsci/math-stats/about/contact.html", 
         "length": 1440
     }, 
-    "2156": {
-        "url": "http://www.concordia.ca/artsci/math-stats/news/archive/cunews/offices/vpaer/aar/2016/07/12/one-of-canada_s-most-powerful-women.html", 
+    "2404": {
+        "url": "http://www.concordia.ca/artsci/chemistry/news/events/archive/cuevents/offices/vprgs/sgs/2016/02/11/phd-oral-exam-xijun-wang-chemistry.html", 
         "length": 1097
     }, 
     "731": {
@@ -11157,9 +11825,13 @@
         "url": "http://www.concordia.ca/artsci/psychology/faculty.html?fpid=mihaela-iordanova", 
         "length": 1603
     }, 
-    "608": {
-        "url": "https://www.concordia.ca/artsci/psychology/events.html?category=other-events", 
-        "length": 978
+    "1200": {
+        "url": "http://www.concordia.ca/artsci/math-stats/programs/co-op.html", 
+        "length": 1465
+    }, 
+    "2907": {
+        "url": "https://www.concordia.ca/artsci/geography-planning-environment/news/events/cuevents/offices/vprgs/sgs/2016/08/30/phd-oral-exam-150-sarwat-viqar-individualized-program.html", 
+        "length": 1025
     }, 
     "2158": {
         "url": "http://www.concordia.ca/artsci/math-stats/news/archive/cunews/main/stories/2016/11/24/faculty-inventions-were-recognized-at-technology-and-innovation-event.html", 
@@ -11225,9 +11897,49 @@
         "url": "https://www.concordia.ca/artsci/biology/news/cunews/artsci/biology/2016/12/01/undergraduate-honour-s-students-to-present-their-research.html", 
         "length": 581
     }, 
+    "3184": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/research/perform-centre.html", 
+        "length": 666
+    }, 
+    "3185": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/programs/msc-exercise-science.html", 
+        "length": 1985
+    }, 
+    "3186": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/programs/bsc-exercise-science-clinical-physiology.html", 
+        "length": 1127
+    }, 
+    "3187": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/programs/bsc-exercise-science-athletic-therapy.html", 
+        "length": 1099
+    }, 
+    "3180": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news.html", 
+        "length": 690
+    }, 
+    "3181": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/students/essa.html", 
+        "length": 772
+    }, 
     "585": {
         "url": "https://www.concordia.ca/artsci/math-stats/programs/undergraduate/pure-applied-mathematics-ba-bsc.html", 
         "length": 1240
+    }, 
+    "3183": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/research/theses.html", 
+        "length": 516
+    }, 
+    "3188": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/programs/bsc-exercise-science.html", 
+        "length": 1324
+    }, 
+    "3189": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/programs.html", 
+        "length": 975
+    }, 
+    "3214": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=robert-panenic", 
+        "length": 868
     }, 
     "1138": {
         "url": "https://www.concordia.ca/artsci/chemistry/news/archive/cunews/main/stories/2016/03/02/reichs-skinner-infograph-tol.html", 
@@ -11237,9 +11949,13 @@
         "url": "https://www.concordia.ca/artsci/math-stats/news/archive/cunews/main/stories/2016/11/24/faculty-inventions-were-recognized-at-technology-and-innovation-event.html", 
         "length": 1796
     }, 
-    "282": {
-        "url": "https://www.concordia.ca/artsci/biology/news/cunews/main/stories/2016/11/04/what-motivates-costly-milk-sharing-among-reindeer-sacha-engelhardt.html", 
-        "length": 1241
+    "3109": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/students/cunews/artsci/exercise-science/2016/11/22/our-students.html", 
+        "length": 611
+    }, 
+    "1954": {
+        "url": "http://www.concordia.ca/artsci/biology/events/cuevents/finearts/fofa/2017/01/16/undergraduat-student-exhibition.html", 
+        "length": 4423
     }, 
     "357": {
         "url": "https://www.concordia.ca/artsci/psychology/faculty.html?fpid=linda-booij", 
@@ -11280,6 +11996,10 @@
     "358": {
         "url": "https://www.concordia.ca/artsci/psychology/faculty.html?fpid=james-pfaus", 
         "length": 6384
+    }, 
+    "3107": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/students/cunews/artsci/exercise-science/2015/10/23/2014-2015-arts-and-science-scholars.html", 
+        "length": 576
     }, 
     "43": {
         "url": "http://www.concordia.ca/artsci/geography-planning-environment/programs/current-students/program-requirements/environmental-geography.html", 
@@ -11353,17 +12073,17 @@
         "url": "https://www.concordia.ca/artsci/biology/news.html?content-main_news_grid_list_0_start=6&rootnav=artsci%2Fbiology%2Fnews", 
         "length": 609
     }, 
-    "1115": {
-        "url": "https://www.concordia.ca/artsci/chemistry/news/archive/cunews/main/stories/2014/04/30/yves-gelinas-en-entrevueavecledevoir.html", 
-        "length": 584
+    "1443": {
+        "url": "http://www.concordia.ca/artsci/psychology/news/notices/cunews/artsci/psychology/2013/04/29/diane-poulin-dubois-inducted.html", 
+        "length": 601
     }, 
     "283": {
         "url": "https://www.concordia.ca/artsci/biology/news/cunews/main/stories/2016/10/19/yeasts-more-effective-treatments-biology-professor-malcolm-whiteway.html", 
         "length": 1324
     }, 
-    "1030": {
-        "url": "https://www.concordia.ca/artsci/chemistry/news/events/archive/cuevents/artsci/chemistry/2015/01/16/royer-2015.html", 
-        "length": 740
+    "282": {
+        "url": "https://www.concordia.ca/artsci/biology/news/cunews/main/stories/2016/11/04/what-motivates-costly-milk-sharing-among-reindeer-sacha-engelhardt.html", 
+        "length": 1241
     }, 
     "285": {
         "url": "https://www.concordia.ca/artsci/biology/news/cunews/artsci/2016/11/28/fas-salutes-high-gpa-grad-students.html", 
@@ -11448,6 +12168,10 @@
     "1563": {
         "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/artsci/lifestyle-addiction/2017/07/21/31th-national-conference-on-problem-gambling.html", 
         "length": 574
+    }, 
+    "3225": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/students/cunews/artsci/exercise-science/2015/10/23/2014-2015-arts-and-science-scholars.html", 
+        "length": 576
     }, 
     "2491": {
         "url": "http://www.concordia.ca/artsci/chemistry/faculty.html?fpid=peter-pawelek", 
@@ -11569,9 +12293,9 @@
         "url": "https://www.concordia.ca/artsci/psychology/faculty.html?fpid=thanh-dang-vu", 
         "length": 4072
     }, 
-    "980": {
-        "url": "https://www.concordia.ca/artsci/psychology/faculty.html?fpid=jane-stewart", 
-        "length": 1772
+    "2830": {
+        "url": "https://www.concordia.ca/artsci/science-college/news/archive/cunews/main/stories/2016/02/10/concordia-hosts-four-extracurricular-math-programs-for-children-mathematics-statistics.html", 
+        "length": 1403
     }, 
     "981": {
         "url": "https://www.concordia.ca/artsci/psychology/faculty.html?fpid=anna-beth-doyle", 
@@ -11625,6 +12349,10 @@
         "url": "https://www.concordia.ca/artsci/chemistry/cbgrc/presentations/abstract-submission-form.html", 
         "length": 330
     }, 
+    "3244": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2015/12/10/our-students-success-is-made-possible-by-these-people.html", 
+        "length": 1216
+    }, 
     "119": {
         "url": "https://www.concordia.ca/artsci/chemistry/cbgrc/fr/presentations.html", 
         "length": 19209
@@ -11637,9 +12365,9 @@
         "url": "https://www.concordia.ca/artsci/science-college/faculty.html?fpid=alina-stancu", 
         "length": 504
     }, 
-    "2784": {
-        "url": "https://www.concordia.ca/artsci/science-college/faculty.html?fpid=dmitry-korotkin", 
-        "length": 509
+    "3227": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/students/cunews/artsci/exercise-science/2016/11/22/our-students.html", 
+        "length": 611
     }, 
     "2787": {
         "url": "https://www.concordia.ca/artsci/science-college/faculty.html?fpid=simon-bacon", 
@@ -11729,6 +12457,10 @@
         "url": "https://www.concordia.ca/artsci/chemistry/news/events/archive/cuevents/artsci/chemistry/2015/01/23/mabury-2015.html", 
         "length": 837
     }, 
+    "3221": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=richard-courtemanche", 
+        "length": 1529
+    }, 
     "1389": {
         "url": "http://www.concordia.ca/artsci/science-college/faculty.html?fpid=grant-brown", 
         "length": 1017
@@ -11777,6 +12509,10 @@
         "url": "http://www.concordia.ca/artsci/math-stats/programs/undergraduate/mathematics-statistics-ba-bsc.html", 
         "length": 1285
     }, 
+    "3220": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=thanh-dang-vu", 
+        "length": 4069
+    }, 
     "2929": {
         "url": "https://www.concordia.ca/artsci/geography-planning-environment/news/cunews/main/stories/2016/11/21/opinion-how-does-canadas-climate-policy-rate-damon-matthews.html", 
         "length": 1626
@@ -11789,9 +12525,9 @@
         "url": "https://www.concordia.ca/artsci/geography-planning-environment/news/cunews/main/stories/2016/05/10/transform-two-montreal-parks-community-design-initiative-375-city-birthday.html", 
         "length": 1661
     }, 
-    "2920": {
-        "url": "https://www.concordia.ca/artsci/geography-planning-environment/news/cunews/main/stories/2016/04/27/calling-all-mapmakers-concordia-is-now-offering-a-five-day-course-in-gis.html", 
-        "length": 1224
+    "2565": {
+        "url": "http://www.concordia.ca/artsci/geography-planning-environment/news/cunews/main/stories/2016/01/26/zachary-patterson-uses-smart-phone-apps-to-help-solve-public-transport-issues.html", 
+        "length": 1237
     }, 
     "2923": {
         "url": "https://www.concordia.ca/artsci/geography-planning-environment/news/cunews/offices/vpaer/aar/2016/06/08/the-man-behind-osheaga.html", 
@@ -11813,17 +12549,17 @@
         "url": "https://www.concordia.ca/artsci/geography-planning-environment/news/cunews/main/stories/2016/08/10/how-climate-change-will-hurt-humanity-s-closest-cousins.html", 
         "length": 1311
     }, 
-    "2926": {
-        "url": "https://www.concordia.ca/artsci/geography-planning-environment/news/cunews/main/stories/2016/08/09/concordia-teams-up-with-united-nations-to-offer-first-ever-massive-open-online-course.html", 
-        "length": 1558
+    "2564": {
+        "url": "http://www.concordia.ca/artsci/geography-planning-environment/news/cunews/main/stories/2016/01/20/research-findings-can-be-used-to-show-impact-of-c02-on-local-climate-damon-matthews.html", 
+        "length": 1096
     }, 
     "1208": {
         "url": "http://www.concordia.ca/artsci/math-stats/programs/undergraduate/mathematics-statistics-computer-applications-ba-bsc.html", 
         "length": 1589
     }, 
-    "2907": {
-        "url": "https://www.concordia.ca/artsci/geography-planning-environment/news/events/cuevents/offices/vprgs/sgs/2016/08/30/phd-oral-exam-150-sarwat-viqar-individualized-program.html", 
-        "length": 1025
+    "3223": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=jacqueline-camley", 
+        "length": 512
     }, 
     "2906": {
         "url": "https://www.concordia.ca/artsci/geography-planning-environment/news/events/cuevents/offices/vprgs/sgs/2016/04/05/phd-oral-exam-150-natalie-doonan-humanities.html", 
@@ -11833,33 +12569,33 @@
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/vprgs/sgs/2016/12/09/phd-oral-exam-150-michael-rast-history.html", 
         "length": 989
     }, 
-    "1631": {
-        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/finearts/music/2016/12/15.html", 
-        "length": 558
+    "3215": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=alain-leroux", 
+        "length": 804
     }, 
     "1984": {
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/artsci/cmll/2016/12/09/male-voices-ron-smyth.html", 
         "length": 590
     }, 
-    "1633": {
-        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/finearts/music/2016/12/14.html", 
-        "length": 554
+    "3217": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=geoff-dover", 
+        "length": 867
     }, 
     "1982": {
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/finearts/music/2016/12/09.html", 
         "length": 697
     }, 
-    "1635": {
-        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/offices/vprgs/sgs/2016/12/13/phd-oral-exam-150-tony-bongiorno-business-administration-management.html", 
-        "length": 998
+    "3211": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=sylvia-santosa", 
+        "length": 948
     }, 
     "1980": {
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/vpaer/aar/2016/12/09/beijing-holiday-reception-with-president-alan-shepard.html", 
         "length": 656
     }, 
-    "1637": {
-        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/main/2016/12/13/eap-lunchtime-seminar-successful-transition-to-retirement-financial-planning.html", 
-        "length": 670
+    "3213": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=david-paris", 
+        "length": 673
     }, 
     "1638": {
         "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/offices/vprgs/sgs/2016/12/13/phd-oral-exam-150-salvador-edmundo-valdovinos-rodriguez-art-education.html", 
@@ -11873,6 +12609,14 @@
         "url": "https://www.concordia.ca/artsci/geography-planning-environment/news/events/cuevents/artsci/2016/04/08/beyond-the-border-a-talk-by-emily-gilbert.html", 
         "length": 801
     }, 
+    "3218": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=richard-demont", 
+        "length": 1017
+    }, 
+    "3219": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=peter-darlington", 
+        "length": 1172
+    }, 
     "1988": {
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/artsci/math-stats/2016/12/09/msc-thesis-defence-in-mathematics.html", 
         "length": 758
@@ -11884,6 +12628,10 @@
     "1781": {
         "url": "http://www.concordia.ca/artsci/biology/events/cuevents/offices/provost/ssc/2017/03/15/critical-thinking-and-creative-problem-solving.html", 
         "length": 610
+    }, 
+    "3222": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=nikita-chicoine", 
+        "length": 520
     }, 
     "2909": {
         "url": "https://www.concordia.ca/artsci/geography-planning-environment/news/events/cuevents/offices/provost/library/2016/09/28/libr-101-introduction-to-library-services.html", 
@@ -11901,9 +12649,9 @@
         "url": "https://www.concordia.ca/artsci/science-college/news/public-lecture-series/past-lectures/modern-cosmology-superstring-theory.html", 
         "length": 877
     }, 
-    "2908": {
-        "url": "https://www.concordia.ca/artsci/geography-planning-environment/news/events/cuevents/offices/provost/library/2016/09/21/libr-101-introduction-to-library-services.html", 
-        "length": 609
+    "707": {
+        "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/jmsb/2017/03/09/mba-with-complete-cfa-reg-integration-information-session-toronto.html", 
+        "length": 635
     }, 
     "2811": {
         "url": "https://www.concordia.ca/artsci/science-college/news/notices/cunews/artsci/science-college/2015/06/20/achievements-for-science-college-students.html", 
@@ -11952,6 +12700,46 @@
     "567": {
         "url": "https://www.concordia.ca/artsci/math-stats/news/archive/cunews/artsci/math-stats/2016/04/04/in-memory-of-fedor-soloviev.html", 
         "length": 619
+    }, 
+    "3179": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/research.html", 
+        "length": 633
+    }, 
+    "3178": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/research/projects.html", 
+        "length": 1572
+    }, 
+    "3171": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=thanh-dang-vu", 
+        "length": 4069
+    }, 
+    "3170": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=peter-darlington", 
+        "length": 1172
+    }, 
+    "3173": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=nikita-chicoine", 
+        "length": 520
+    }, 
+    "3172": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=richard-courtemanche", 
+        "length": 1529
+    }, 
+    "3175": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=andreas-bergdahl", 
+        "length": 1029
+    }, 
+    "3174": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/faculty.html?fpid=jacqueline-camley", 
+        "length": 512
+    }, 
+    "3177": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/research/publications.html", 
+        "length": 516
+    }, 
+    "3176": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/contact.html", 
+        "length": 591
     }, 
     "659": {
         "url": "https://www.concordia.ca/artsci/math-stats/faculty.html?fpid=lakhdar-aggoun", 
@@ -12057,9 +12845,9 @@
         "url": "http://www.concordia.ca/artsci/biology/news/cunews/main/stories/2016/11/04/what-motivates-costly-milk-sharing-among-reindeer-sacha-engelhardt.html", 
         "length": 1241
     }, 
-    "729": {
-        "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/artsci/polisci/wssr/2017/03/10/alvaroworkshop.html", 
-        "length": 889
+    "1743": {
+        "url": "http://www.concordia.ca/artsci/biology/news/cunews/main/stories/2016/11/09/the-double-wonder-of-worms-research-vermicompost.html", 
+        "length": 1452
     }, 
     "1164": {
         "url": "http://www.concordia.ca/artsci/biology/faculty.html.html?fpid=vincent-martin", 
@@ -12077,17 +12865,17 @@
         "url": "http://www.concordia.ca/artsci/biology/faculty.html.html?fpid=jean-philippe-lessard", 
         "length": 1049
     }, 
-    "1160": {
-        "url": "https://www.concordia.ca/artsci/chemistry/programs/undergraduate/advanced-courses.html", 
-        "length": 1524
+    "1614": {
+        "url": "http://www.concordia.ca/artsci/psychology/events/cuevents/offices/provost/ssc/2017/01/19/getting-started-understanding-the-assignment-and-generating-ideas.html", 
+        "length": 643
     }, 
     "1161": {
         "url": "https://www.concordia.ca/artsci/chemistry/programs/graduate/biotech-genomics-diploma.html", 
         "length": 562
     }, 
-    "640": {
-        "url": "https://www.concordia.ca/artsci/math-stats/faculty.html?fpid=robert-mearns", 
-        "length": 496
+    "1162": {
+        "url": "https://www.concordia.ca/artsci/chemistry/programs/undergraduate/procedures-forms/chem101-statement-plagiarism-academic-code.html", 
+        "length": 1804
     }, 
     "1163": {
         "url": "http://www.concordia.ca/artsci/biology/faculty.html.html?fpid=alisa-piekny", 
@@ -12101,9 +12889,13 @@
         "url": "http://www.concordia.ca/artsci/biology/faculty.html.html?fpid=dylan-fraser", 
         "length": 890
     }, 
-    "472": {
-        "url": "https://www.concordia.ca/artsci/math-stats/news/cunews/artsci/math-stats/2016/06/28/jose-garrido-cia-merit.html", 
-        "length": 560
+    "3092": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/students/essa.html", 
+        "length": 772
+    }, 
+    "1366": {
+        "url": "http://www.concordia.ca/artsci/psychology/programs/graduate/research-clinical-training.html", 
+        "length": 1406
     }, 
     "2913": {
         "url": "https://www.concordia.ca/artsci/geography-planning-environment/news/cunews/main/stories/2016/01/26/zachary-patterson-uses-smart-phone-apps-to-help-solve-public-transport-issues.html", 
@@ -12205,9 +12997,9 @@
         "url": "http://www.concordia.ca/artsci/psychology/faculty.html?fpid=alex-schwartzman", 
         "length": 952
     }, 
-    "1360": {
-        "url": "http://www.concordia.ca/artsci/psychology/news/archive/cunews/main/stories/2016/02/04/rapid-hiv-testing-consent-awareness-and-more-at-sex-fair.html", 
-        "length": 1045
+    "474": {
+        "url": "https://www.concordia.ca/artsci/math-stats/news/cunews/artsci/math-stats/2015/06/01/c-david-elected-vicepresidentofthecrm.html", 
+        "length": 557
     }, 
     "1712": {
         "url": "http://www.concordia.ca/artsci/psychology/faculty.html?fpid=jane-stewart", 
@@ -12265,9 +13057,9 @@
         "url": "https://www.concordia.ca/artsci/psychology/events/cuevents/offices/provost/ssc/2017/01/25/study-strategies-for-online-learning.html", 
         "length": 640
     }, 
-    "1366": {
-        "url": "http://www.concordia.ca/artsci/psychology/programs/graduate/research-clinical-training.html", 
-        "length": 1406
+    "3197": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/news/cunews/main/stories/2013/03/06/a-light-on-leadership.html", 
+        "length": 1055
     }, 
     "473": {
         "url": "https://www.concordia.ca/artsci/math-stats/news/notices.html.html", 
@@ -12281,17 +13073,17 @@
         "url": "https://www.concordia.ca/artsci/math-stats/news/cunews/artsci/math-stats/2016/03/17/iovita-awarded.html", 
         "length": 601
     }, 
-    "476": {
-        "url": "https://www.concordia.ca/artsci/math-stats/news/notices/cunews/artsci/math-stats/2012/09/01/undergrad-actuarial-programs-concordia-accredited.html", 
-        "length": 624
+    "3193": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/about/staff.html", 
+        "length": 559
     }, 
     "477": {
         "url": "https://www.concordia.ca/artsci/math-stats/news/notices/cunews/artsci/math-stats/2012/10/19/szabo-wins-wolfram-innovator-award.html", 
         "length": 598
     }, 
-    "474": {
-        "url": "https://www.concordia.ca/artsci/math-stats/news/cunews/artsci/math-stats/2015/06/01/c-david-elected-vicepresidentofthecrm.html", 
-        "length": 557
+    "3191": {
+        "url": "https://www.concordia.ca/artsci/exercise-science/about/faculty.html?fpid=richard-demont", 
+        "length": 1050
     }, 
     "475": {
         "url": "https://www.concordia.ca/artsci/math-stats/news/cunews/artsci/math-stats/2015/10/formula-of-unity---mathematical-olympiad.html", 
@@ -12309,9 +13101,9 @@
         "url": "https://www.concordia.ca/artsci/geography-planning-environment/news/cunews/main/stories/2016/01/20/research-findings-can-be-used-to-show-impact-of-c02-on-local-climate-damon-matthews.html", 
         "length": 1096
     }, 
-    "1368": {
-        "url": "http://www.concordia.ca/artsci/psychology/programs/graduate/clinical-psychology-certificate.html", 
-        "length": 554
+    "3199": {
+        "url": "http://www.concordia.ca/artsci/exercise-science/about/faculty.html?fpid=richard-demont", 
+        "length": 1050
     }, 
     "1369": {
         "url": "http://www.concordia.ca/artsci/psychology/programs/graduate/psychology-phd.html", 
